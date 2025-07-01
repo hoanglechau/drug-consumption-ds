@@ -1,4 +1,4 @@
-# **Drug Consumption Data Science Project** {-}
+# **Drug Consumption Data Science Project**
 
 **Author:** Hoang Le Chau
 
