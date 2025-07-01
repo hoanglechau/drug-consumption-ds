@@ -1,0 +1,981 @@
+ID,Age,Gender,Education,Country,Ethics,Neuroticism,Extraversion,Cannabis_Consumption,Ecstasy_Consumption,Alcohol_Consumption,Cocaine_Consumption
+1,36.0,M,Professional Cert.,0.96,0.13,0.31,-0.58,Used Last Year,Used 5-10 Years,Never Used,CL2
+2,30.0,F,Doctorate Degree,0.96,-0.32,-0.68,1.94,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL0
+3,44.0,F,Professional Cert.,0.96,-0.32,-0.47,0.81,Used Last Month,Never Used,Never Used,CL0
+4,20.0,M,Master’s Degree,0.96,-0.32,-0.15,-0.81,Used 1-2 Years,Never Used,Never Used,CL3
+5,43.0,M,Doctorate Degree,0.96,-0.32,0.74,-1.63,Used 1-2 Years,Used >10 Years,Used >10 Years,CL0
+6,19.0,M,,0.25,-0.32,-0.68,-0.3,Used 5-10 Years,Never Used,Never Used,CL0
+7,53.0,F,Master’s Degree,-0.57,-0.32,-0.47,-1.09,Used Last Month,Never Used,Never Used,CL0
+8,36.0,F,,0.96,-0.32,-1.33,1.94,Used Last Year,Never Used,Never Used,CL0
+9,41.0,M,Professional Cert.,0.25,-0.32,0.63,2.57,Used 1-2 Years,Never Used,Never Used,CL0
+10,59.0,F,Master’s Degree,0.96,-0.32,-0.25,0.0,Used Last Month,Used >10 Years,Never Used,CL1
+11,33.0,M,University Degree,0.96,-0.32,-1.05,0.81,Used Last Year,Never Used,Used >10 Years,CL0
+12,50.0,F,Some College,-0.29,-0.32,-1.33,0.0,Used Last Year,Used >10 Years,Never Used,CL0
+13,57.0,M,University Degree,0.96,-0.32,2.29,0.17,Used Last Year,Used >10 Years,Never Used,CL4
+14,61.0,M,Professional Cert.,0.25,-0.32,-0.79,0.81,Used >10 Years,Never Used,Never Used,CL0
+15,59.0,M,Professional Cert.,0.96,-0.32,-0.92,1.45,Used Last Month,Never Used,Never Used,CL0
+16,60.0,F,University Degree,0.96,-0.32,-2.05,-1.51,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL0
+17,41.0,M,Some College,0.96,-0.32,-1.55,-0.81,Used Last Month,Never Used,Never Used,CL1
+18,50.0,F,,0.96,-0.32,0.52,-1.23,Used Last Month,Used >10 Years,Used >10 Years,CL0
+19,60.0,F,University Degree,-0.1,-0.32,1.37,-0.15,Used Last Month,Used 5-10 Years,Never Used,CL2
+20,38.0,F,Professional Cert.,0.96,-0.32,-0.35,-1.76,Used 1-2 Years,Used >10 Years,Never Used,CL0
+21,51.0,F,Professional Cert.,0.96,-0.32,-0.79,0.81,Used Last Month,Used >10 Years,Used >10 Years,CL0
+23,50.0,F,University Degree,0.96,-0.32,0.42,-0.95,Used 1-2 Years,Never Used,Never Used,CL0
+24,47.0,F,,0.96,-0.32,1.6,-3.27,Used Last Month,Used 5-10 Years,Used >10 Years,CL5
+25,59.0,F,University Degree,0.96,-0.32,-0.15,0.64,Used Last Year,Used >10 Years,Used >10 Years,CL1
+26,53.0,F,Some College,0.96,-0.32,-0.79,-0.44,Used Last Year,Used >10 Years,Used 5-10 Years,CL0
+27,63.0,M,,0.25,-0.32,-0.05,-1.63,Used Last Month,Never Used,Never Used,CL2
+28,36.0,F,University Degree,0.96,-0.32,0.52,-1.23,Used Last Month,Used >10 Years,Used >10 Years,CL2
+29,40.0,M,Master’s Degree,0.96,-0.32,0.04,-1.51,Used Last Month,Never Used,Never Used,CL0
+30,45.0,F,Doctorate Degree,0.96,-0.32,-1.33,1.74,Never Used,Never Used,Never Used,CL0
+31,48.0,F,,0.96,-0.32,0.31,-0.81,Used Last Month,Used >10 Years,Used >10 Years,CL1
+32,44.0,M,,-0.29,-0.32,-1.19,-0.81,Used 2-5 Years,Never Used,Never Used,CL2
+33,37.0,F,University Degree,0.96,-0.32,-0.79,-1.23,Used Last Month,Used >10 Years,Used >10 Years,CL0
+34,23.0,F,University Degree,0.96,-0.32,0.42,-0.3,Used Last Month,Never Used,Never Used,CL0
+35,38.0,F,University Degree,-0.57,11,1.02,0.64,Used 1-2 Years,Used 5-10 Years,Used >10 Years,CL1
+36,83.0,F,,0.96,-0.32,-0.25,-0.81,Used 2-5 Years,Never Used,Never Used,CL0
+37,43.0,F,University Degree,0.96,-0.32,-0.25,-0.58,Used Last Month,Never Used,Never Used,CL0
+38,63.0,F,,-0.57,-0.32,0.31,0.32,Used Last Month,Used >10 Years,Used 5-10 Years,CL1
+39,47.0,F,University Degree,0.96,-0.32,-1.55,1.29,Used Last Month,Used >10 Years,Never Used,CL0
+41,35.0,F,Master’s Degree,0.96,-0.32,0.04,-0.44,Used Last Year,Used >10 Years,Never Used,CL2
+42,35.0,M,University Degree,0.96,-0.32,0.83,0.0,Used 1-2 Years,Never Used,Never Used,CL0
+43,41.0,F,Master’s Degree,0.96,-0.32,-0.15,-0.95,Used Last Month,Never Used,Used 2-5 Years,CL5
+44,38.0,F,Professional Cert.,0.96,-0.32,-0.92,-0.58,Used Last Month,Used 5-10 Years,Used 5-10 Years,CL0
+45,27.0,F,University Degree,0.96,11,-1.05,1.45,Used Last Year,Never Used,Never Used,CL0
+46,32.0,M,University Degree,0.96,-0.32,-0.47,0.48,Used Last Year,Never Used,Never Used,CL0
+47,53.0,M,Some College,0.25,-0.32,0.31,0.64,Used 2-5 Years,Never Used,Never Used,CL0
+48,48.0,F,Master’s Degree,0.96,-0.32,-2.05,0.81,Used Last Year,Never Used,Never Used,CL0
+49,49.0,F,,0.96,-0.32,0.14,-0.81,Used Last Month,Used >10 Years,Used >10 Years,CL0
+50,27.0,M,Master’s Degree,0.96,-0.22,0.83,-0.58,Used Last Month,Never Used,Never Used,CL0
+51,42.0,F,Master’s Degree,0.96,-0.32,1.02,-0.15,Used Last Month,Used >10 Years,Used 5-10 Years,CL1
+52,45.0,F,Professional Cert.,0.25,-0.32,1.13,0.96,Used 5-10 Years,Used >10 Years,Used >10 Years,CL1
+53,55.0,M,University Degree,0.96,-0.32,-0.15,0.0,Used Last Year,Never Used,Never Used,CL0
+54,48.0,F,Master’s Degree,0.96,-0.32,-1.44,-0.15,Used Last Year,Used >10 Years,Used >10 Years,CL0
+55,57.0,F,,0.96,-0.32,0.04,1.11,Used Last Month,Never Used,Never Used,CL0
+56,64.0,M,Professional Cert.,0.96,-0.32,0.04,-0.7,Used 2-5 Years,Never Used,Never Used,CL0
+57,37.0,M,Some College,0.96,-0.32,0.04,0.0,Used Last Year,Never Used,Never Used,CL0
+58,28.0,M,University Degree,0.96,-0.32,-0.58,0.64,Used >10 Years,Never Used,Never Used,CL0
+59,50.0,F,,0.96,-0.32,0.22,0.64,Used Last Year,Used >10 Years,Used >10 Years,CL0
+60,47.0,F,University Degree,0.96,-0.32,-0.47,-1.23,Used Last Year,Never Used,Never Used,CL0
+61,27.0,M,Doctorate Degree,0.96,-0.32,1.37,0.32,Used Last Year,Never Used,Never Used,CL3
+62,48.0,F,Master’s Degree,0.96,-0.5,-2.22,1.58,Used Last Year,Used >10 Years,Never Used,CL0
+63,30.0,F,University Degree,0.96,-0.32,-0.58,-1.38,Used Last Year,Never Used,Never Used,CL0
+64,47.0,F,University Degree,0.96,-0.32,1.02,-0.3,Used Last Year,Never Used,Never Used,CL0
+65,50.0,F,Doctorate Degree,0.96,-0.32,-1.55,0.48,Used Last Month,Used >10 Years,Never Used,CL1
+66,36.0,F,Some College,0.96,-0.32,0.74,0.48,Used Last Year,Never Used,Never Used,CL3
+67,50.0,F,,0.96,-0.32,-1.05,-0.7,Used 1-2 Years,Never Used,Never Used,CL0
+68,31.0,F,Master’s Degree,0.96,-0.32,-0.35,-0.3,Used Last Year,Used >10 Years,Used >10 Years,CL0
+69,39.0,F,Professional Cert.,-0.29,-0.32,-0.92,0.0,Used Last Year,Used >10 Years,Used >10 Years,CL0
+70,49.0,M,,0.96,-0.32,-0.05,-0.7,Used Last Month,Never Used,Never Used,CL6
+71,29.0,F,Some College,0.96,-0.32,-0.35,-0.3,Used Last Month,Used 5-10 Years,Used >10 Years,CL0
+72,45.0,M,,0.25,-0.32,-0.47,1.11,Used Last Year,Never Used,Never Used,CL0
+73,52.0,F,,0.96,-0.32,-1.55,0.96,Used Last Month,Used >10 Years,Used >10 Years,CL0
+74,54.0,F,Professional Cert.,0.96,-0.32,-0.68,-0.58,Used Last Month,Never Used,Never Used,CL0
+76,33.0,F,University Degree,0.96,-0.32,-0.15,0.17,Used Last Year,Never Used,Never Used,CL0
+77,47.0,M,,0.25,-0.32,-0.35,-0.7,Used 1-2 Years,Never Used,Never Used,CL0
+78,39.0,F,University Degree,0.96,-0.32,0.14,-1.63,Used 2-5 Years,Used >10 Years,Never Used,CL0
+79,40.0,F,Some College,0.96,-0.32,-0.79,-0.81,Used Last Month,Never Used,Used >10 Years,CL0
+80,39.0,F,Professional Cert.,0.96,-0.32,-0.35,-0.81,Used Last Year,Never Used,Never Used,CL0
+82,64.0,M,University Degree,0.96,-0.32,-0.79,-1.23,Used Last Year,Used >10 Years,Used >10 Years,CL1
+83,55.0,F,Master’s Degree,0.25,-0.32,-2.05,1.45,Used Last Year,Never Used,Never Used,CL0
+84,60.0,M,,0.96,-0.22,1.02,-0.95,Used 2-5 Years,Never Used,Never Used,CL5
+85,49.0,F,,0.96,-0.32,-0.35,0.17,Used Last Year,Never Used,Never Used,CL0
+86,26.0,M,,0.96,-0.32,-0.47,0.0,Used 2-5 Years,Never Used,Used >10 Years,CL0
+87,39.0,F,Some College,0.96,-0.32,0.74,-0.15,Used Last Year,Never Used,Used >10 Years,CL0
+88,62.0,F,,0.96,-0.32,-0.92,0.17,Used Last Year,Never Used,Never Used,CL0
+89,38.0,M,Some College,0.96,-0.32,0.31,-1.92,Used 2-5 Years,Never Used,Used >10 Years,CL1
+90,39.0,M,Master’s Degree,0.96,-0.32,0.91,-0.58,Used Last Year,Used >10 Years,Used >10 Years,CL2
+91,36.0,M,Master’s Degree,0.96,-0.32,1.37,0.32,Used Last Month,Never Used,Never Used,CL0
+92,36.0,F,Professional Cert.,0.25,-0.32,0.42,-0.44,Used 5-10 Years,Never Used,Never Used,CL3
+93,34.0,F,,0.96,-0.32,-1.55,-0.3,Used 1-2 Years,Never Used,Never Used,CL0
+95,46.0,F,Master’s Degree,0.96,-0.32,-0.68,-0.58,Used Last Year,Never Used,Never Used,CL3
+96,48.0,F,Master’s Degree,0.96,-0.32,-0.47,0.32,Used Last Month,Used >10 Years,Used >10 Years,CL1
+97,40.0,M,University Degree,0.25,-0.32,0.14,-1.09,Used 1-2 Years,Used >10 Years,Never Used,CL0
+98,53.0,M,Master’s Degree,0.96,-0.32,-0.47,0.64,Used Last Year,Used >10 Years,Never Used,CL1
+99,42.0,F,Doctorate Degree,0.25,-0.32,-1.19,-0.44,Used 1-2 Years,Used >10 Years,Never Used,CL0
+100,32.0,M,University Degree,0.96,-0.32,-0.68,3.01,Used Last Month,Used 5-10 Years,Never Used,CL3
+101,29.0,F,Master’s Degree,-0.29,-0.32,-1.05,2.57,Used Last Month,Used 2-5 Years,Used 2-5 Years,CL4
+102,50.0,M,,-0.1,-0.32,-0.58,0.48,Used 1-2 Years,Never Used,Never Used,CL0
+103,51.0,F,,0.96,-0.32,-0.58,1.29,Used Last Month,Used >10 Years,Used 2-5 Years,CL4
+104,49.0,M,Professional Cert.,0.25,-0.32,0.04,0.64,Used 1-2 Years,Never Used,Never Used,CL0
+105,34.0,M,Some College,0.25,-0.32,-0.92,0.17,Used Last Year,Never Used,Never Used,CL0
+106,39.0,F,Professional Cert.,0.96,-0.32,-2.22,0.48,Used 2-5 Years,Never Used,Never Used,CL0
+107,28.0,M,Some College,0.96,-0.32,1.02,-0.3,Used 1-2 Years,Never Used,Never Used,CL0
+108,40.0,M,,0.96,-0.32,0.14,0.0,Used Last Year,Used 2-5 Years,Never Used,CL0
+109,25.0,M,,0.96,-0.32,-0.47,2.13,Used Last Year,Never Used,Never Used,CL3
+110,46.0,M,,0.96,-0.32,-0.79,0.48,Used Last Year,Used >10 Years,Never Used,CL0
+112,28.0,F,Master’s Degree,0.96,32,0.31,-1.09,Used Last Month,Used >10 Years,Never Used,CL0
+113,28.0,M,University Degree,0.96,32,-1.19,0.32,Used 2-5 Years,Never Used,Never Used,CL0
+114,45.0,M,Professional Cert.,0.96,-0.32,0.04,0.64,Used 1-2 Years,Never Used,Never Used,CL1
+115,40.0,F,Some College,0.96,-0.32,-2.34,1.94,Used 1-2 Years,Used >10 Years,Used >10 Years,CL2
+116,30.0,M,Professional Cert.,0.25,-0.32,0.22,-0.58,Used Last Year,Used >10 Years,Used 5-10 Years,CL0
+117,44.0,F,Professional Cert.,0.25,-0.32,0.63,-0.58,Used 1-2 Years,Never Used,Never Used,CL0
+118,25.0,M,University Degree,0.96,-0.32,1.6,0.81,Used Last Year,Used >10 Years,Used >10 Years,CL3
+119,41.0,M,Some College,-0.57,-0.32,1.84,-1.92,Used Last Year,Never Used,Never Used,CL6
+120,36.0,M,University Degree,0.96,-0.32,-0.35,0.64,Used Last Year,Never Used,Never Used,CL0
+121,31.0,M,Master’s Degree,0.96,-0.32,-1.05,0.64,Used Last Month,Used >10 Years,Never Used,CL0
+122,44.0,M,Professional Cert.,0.96,-0.32,1.49,-1.23,Used 5-10 Years,Never Used,Never Used,CL0
+123,55.0,F,Master’s Degree,0.96,-0.32,0.22,0.17,Used Last Month,Never Used,Never Used,CL0
+124,25.0,M,University Degree,0.96,-0.32,0.22,-0.7,Used Last Year,Used >10 Years,Never Used,CL0
+125,54.0,F,,0.96,-0.32,-0.35,1.94,Used 2-5 Years,Never Used,Never Used,CL0
+126,56.0,F,University Degree,0.96,-0.32,-0.47,1.29,Used Last Month,Never Used,Never Used,CL0
+127,52.0,F,University Degree,0.96,-0.32,-1.19,0.64,Used Last Year,Used >10 Years,Used >10 Years,CL0
+128,50.0,M,,0.96,-0.32,-0.35,-0.81,Used Last Year,Never Used,Never Used,CL0
+129,35.0,F,Doctorate Degree,0.96,-0.5,0.04,0.64,Never Used,Never Used,Never Used,CL2
+130,54.0,M,Master’s Degree,0.96,-0.32,-0.79,0.96,Used Last Month,Never Used,Never Used,CL0
+131,48.0,M,,0.96,-0.32,0.91,0.32,Used Last Year,Never Used,Never Used,CL0
+132,49.0,M,,0.96,0.11,-1.55,-0.15,Used 1-2 Years,Never Used,Never Used,CL2
+133,42.0,M,,0.21,-0.32,-0.25,-0.58,Used 1-2 Years,Never Used,Never Used,CL0
+134,43.0,F,Master’s Degree,0.96,-0.32,-0.05,0.17,Used Last Year,Never Used,Never Used,CL1
+135,32.0,M,Master’s Degree,0.96,0.13,3.27,-1.51,Used Last Month,Used >10 Years,Never Used,CL0
+136,37.0,M,,0.96,-0.32,-1.69,1.58,Used >10 Years,Never Used,Never Used,CL0
+137,45.0,M,University Degree,0.96,-0.32,-0.15,-0.3,Used Last Year,Never Used,Never Used,CL0
+138,50.0,M,University Degree,0.96,-0.32,-1.19,1.58,Used 1-2 Years,Never Used,Never Used,CL0
+139,56.0,F,University Degree,0.96,-0.32,-0.47,-0.81,Used Last Month,Never Used,Never Used,CL4
+140,52.0,F,,0.96,-0.32,-0.05,0.32,Used Last Month,Never Used,Never Used,CL0
+141,32.0,M,University Degree,0.96,-0.5,1.98,0.32,Used Last Year,Never Used,Never Used,CL2
+142,37.0,M,,0.96,-0.32,-0.79,0.64,Used Last Year,Never Used,Never Used,CL0
+143,39.0,F,,0.96,-0.32,-0.47,-0.3,Used Last Month,Never Used,Never Used,CL0
+144,41.0,F,Professional Cert.,0.96,-1.11,-1.69,1.29,Used >10 Years,Never Used,Never Used,CL0
+145,46.0,F,Professional Cert.,0.25,-0.32,0.14,-1.09,Used Last Month,Never Used,Never Used,CL0
+146,49.0,M,University Degree,0.96,-0.32,-0.47,0.17,Used 1-2 Years,Never Used,Never Used,CL1
+147,55.0,F,Professional Cert.,0.96,-0.32,0.22,-1.23,Used Last Month,Never Used,Never Used,CL1
+148,38.0,F,Master’s Degree,0.96,-1.11,-0.58,0.48,Used 1-2 Years,Never Used,Never Used,CL0
+149,38.0,M,Professional Cert.,0.96,-0.32,-0.05,-1.09,Used 1-2 Years,Never Used,Never Used,CL0
+150,51.0,M,University Degree,0.96,-0.32,-0.79,1.94,Used 1-2 Years,Never Used,Never Used,CL0
+151,41.0,M,Some College,0.96,-0.32,-0.25,1.29,Used Last Year,Never Used,Never Used,CL0
+152,41.0,M,University Degree,0.96,-0.32,0.52,-1.63,Used Last Year,Never Used,Never Used,CL0
+153,28.0,M,University Degree,0.96,-0.32,-0.47,-1.51,Used Last Year,Never Used,Used >10 Years,CL2
+154,33.0,F,University Degree,0.96,-0.32,-0.68,0.96,Used Last Month,Never Used,Used >10 Years,CL0
+155,23.0,M,Some College,0.96,-0.32,2.82,-1.38,Used Last Year,Never Used,Never Used,CL5
+156,43.0,M,University Degree,0.96,-1.11,0.63,-1.38,Used Last Year,Never Used,Never Used,CL0
+157,36.0,M,Some College,0.96,-0.32,1.23,0.0,Used Last Year,Used 5-10 Years,Used >10 Years,CL1
+158,27.0,F,,0.96,-0.32,-1.05,1.11,Used Last Month,Never Used,Never Used,CL0
+159,43.0,M,University Degree,-0.1,-0.32,-0.25,0.17,Used 2-5 Years,Never Used,Never Used,CL0
+160,50.0,M,Some College,0.96,-1.11,-0.47,-0.58,Used 1-2 Years,Never Used,Never Used,CL0
+161,48.0,F,Master’s Degree,-0.29,-0.32,1.02,0.81,Used Last Year,Used >10 Years,Used >10 Years,CL1
+162,43.0,F,University Degree,0.96,-1.11,-0.68,0.32,Used Last Year,Never Used,Never Used,CL0
+163,30.0,M,University Degree,-0.47,-0.32,0.22,0.0,Used 2-5 Years,Never Used,Never Used,CL0
+164,30.0,M,Some College,0.96,-0.32,1.84,0.0,Used 1-2 Years,Never Used,Never Used,CL0
+165,34.0,M,Doctorate Degree,0.96,-0.32,0.14,0.32,Used 2-5 Years,Used >10 Years,Never Used,CL0
+166,51.0,F,Master’s Degree,0.96,-0.32,-0.25,-0.3,Used Last Month,Never Used,Never Used,CL0
+167,19.0,F,Some College,0.96,-0.32,1.49,-1.23,Used Last Year,Never Used,Never Used,CL0
+168,26.0,M,Professional Cert.,0.96,-1.11,0.04,0.0,Used 5-10 Years,Never Used,Never Used,CL0
+169,29.0,M,University Degree,0.96,-0.32,0.22,1.29,Used Last Year,Never Used,Never Used,CL0
+170,23.0,M,,0.96,-0.32,-0.35,0.0,Used Last Year,Never Used,Used 2-5 Years,CL0
+171,45.0,F,,0.96,-0.32,1.37,-0.3,Used 5-10 Years,Used >10 Years,Used >10 Years,CL3
+172,35.0,F,Master’s Degree,0.96,-0.32,-0.35,0.96,Used Last Month,Never Used,Used >10 Years,CL0
+173,50.0,M,Professional Cert.,0.96,-0.32,0.52,-0.58,Used Last Year,Never Used,Never Used,CL0
+174,38.0,M,University Degree,0.96,-0.32,1.02,0.64,Used Last Month,Never Used,Never Used,CL0
+175,36.0,M,Professional Cert.,0.96,-0.32,1.02,-0.58,Used Last Month,Never Used,Never Used,CL2
+176,58.0,M,University Degree,0.96,-0.32,0.63,0.0,Used Last Year,Never Used,Never Used,CL0
+177,35.0,M,University Degree,0.96,0.11,-0.15,-0.58,Used 2-5 Years,Never Used,Never Used,CL0
+178,37.0,M,University Degree,0.96,-0.32,1.49,0.0,Used Last Year,Never Used,Never Used,CL0
+179,49.0,M,University Degree,0.96,-0.32,0.83,-0.95,Used Last Year,Used >10 Years,Never Used,CL0
+180,40.0,M,Professional Cert.,0.96,-0.32,0.42,-0.15,Used Last Year,Used >10 Years,Never Used,CL0
+181,49.0,M,Professional Cert.,0.96,-0.32,0.31,0.64,Used Last Year,Never Used,Never Used,CL0
+182,34.0,F,Doctorate Degree,0.96,-0.32,-1.33,-0.44,Used Last Year,Never Used,Never Used,CL0
+183,37.0,M,Some College,0.96,-0.32,0.31,0.81,Used Last Year,Never Used,Never Used,CL0
+184,21.0,M,University Degree,0.96,-0.32,1.98,-0.44,Used Last Month,Used 2-5 Years,Never Used,CL0
+185,57.0,F,,0.96,-0.32,0.04,-0.81,Used Last Month,Never Used,Never Used,CL0
+186,41.0,M,University Degree,0.25,-0.32,0.31,0.64,Used Last Year,Never Used,Never Used,CL0
+187,38.0,M,Master’s Degree,0.96,-0.32,-0.68,1.45,Used Last Month,Never Used,Never Used,CL0
+188,63.0,M,,0.96,-0.32,-0.79,-0.81,Used 1-2 Years,Never Used,Never Used,CL0
+189,49.0,M,,0.96,-0.32,0.42,-1.38,Used 1-2 Years,Never Used,Never Used,CL2
+190,18.0,M,Master’s Degree,0.96,-0.32,-0.35,0.0,Used Last Year,Never Used,Never Used,CL0
+191,60.0,M,Professional Cert.,0.96,-0.32,-1.44,0.0,Used Last Year,Never Used,Never Used,CL1
+192,19.0,F,University Degree,0.96,0.13,-0.35,1.29,Used Last Year,Never Used,Never Used,CL0
+193,27.0,M,Professional Cert.,0.25,-0.32,-0.79,-0.3,Used Last Year,Used >10 Years,Never Used,CL1
+194,46.0,M,University Degree,0.96,-0.32,0.31,-1.09,Used Last Year,Never Used,Never Used,CL0
+195,28.0,M,University Degree,0.25,0.13,-0.92,1.29,Used 2-5 Years,Never Used,Never Used,CL0
+196,56.0,M,University Degree,0.96,-0.32,0.63,0.32,Used Last Year,Used >10 Years,Never Used,CL1
+197,22.0,F,University Degree,0.96,-1.11,-0.58,0.32,Used 1-2 Years,Never Used,Never Used,CL0
+198,60.0,M,University Degree,0.96,-0.32,-0.35,0.48,Used Last Year,Never Used,Never Used,CL0
+199,27.0,M,Professional Cert.,0.96,-0.32,-0.05,0.48,Used Last Month,Used Last Year,Used Last Year,CL2
+200,54.0,M,Professional Cert.,0.96,-0.32,-0.47,2.32,Used 1-2 Years,Used 1-2 Years,Used >10 Years,CL1
+201,22.0,M,University Degree,0.96,-0.32,-0.58,0.17,Used Last Month,Never Used,Never Used,CL0
+202,43.0,F,Master’s Degree,0.96,0.11,-0.15,-0.95,Used Last Year,Used 2-5 Years,Used 2-5 Years,CL2
+203,40.0,M,University Degree,0.96,-0.32,-0.68,1.29,Used Last Month,Never Used,Never Used,CL3
+205,25.0,M,University Degree,0.96,-0.32,-0.15,0.96,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL2
+206,38.0,M,,0.96,-0.32,-0.15,1.11,Used Last Year,Never Used,Never Used,CL3
+207,20.0,M,University Degree,0.96,-0.32,-0.05,1.29,Used Last Year,Never Used,Never Used,CL0
+208,40.0,M,Professional Cert.,0.96,-0.32,-0.68,0.48,Used Last Year,Used >10 Years,Used 1-2 Years,CL1
+209,37.0,M,University Degree,0.96,-0.32,0.14,0.0,Used 1-2 Years,Used >10 Years,Used >10 Years,CL0
+210,25.0,F,Master’s Degree,0.96,5.00,-1.44,0.48,Never Used,Never Used,Never Used,CL0
+211,33.0,M,Some College,0.96,-0.32,0.74,0.17,Used 2-5 Years,Never Used,Never Used,CL0
+212,47.0,M,,0.96,-0.32,-0.68,-0.58,Used Last Year,Never Used,Never Used,CL0
+213,33.0,M,Professional Cert.,0.96,-0.32,0.14,0.64,Used Last Month,Used >10 Years,Used >10 Years,CL0
+214,45.0,M,Professional Cert.,0.21,-0.32,0.52,-0.15,Used Last Year,Never Used,Never Used,CL1
+215,28.0,M,Professional Cert.,0.96,-0.32,-0.15,1.11,Used Last Year,Never Used,Never Used,CL0
+216,33.0,M,University Degree,0.25,-0.32,1.6,-0.3,Used Last Year,Used 5-10 Years,Never Used,CL0
+217,30.0,M,,0.96,-0.32,0.22,1.11,Used Last Year,Used >10 Years,Used >10 Years,CL0
+218,44.0,F,,0.96,-0.32,1.23,0.81,Used 5-10 Years,Used >10 Years,Used >10 Years,CL1
+219,27.0,M,,-0.29,-0.32,0.31,1.11,Used 1-2 Years,Never Used,Never Used,CL0
+220,39.0,M,,0.96,-0.32,-0.35,-0.58,Used Last Month,Used >10 Years,Used >10 Years,CL1
+221,20.0,M,University Degree,0.96,-0.32,0.83,-0.3,Used Last Year,Never Used,Used 5-10 Years,CL0
+222,30.0,M,University Degree,0.96,-0.32,-0.15,0.48,Used 2-5 Years,Never Used,Never Used,CL0
+223,38.0,M,University Degree,0.96,-0.32,-0.25,0.64,Used Last Month,Used 5-10 Years,Never Used,CL0
+224,60.0,F,University Degree,0.96,-0.32,-1.19,1.11,Used >10 Years,Never Used,Never Used,CL0
+225,46.0,M,University Degree,0.96,-0.32,-0.47,1.45,Used Last Year,Never Used,Never Used,CL0
+226,44.0,M,University Degree,0.96,-0.32,-1.33,0.64,Used Last Month,Used >10 Years,Never Used,CL0
+227,54.0,M,University Degree,0.96,-0.32,-0.47,0.48,Used Last Year,Never Used,Never Used,CL0
+228,20.0,F,Some College,0.96,-0.32,0.22,0.96,Used Last Year,Never Used,Never Used,CL0
+229,52.0,F,Master’s Degree,0.96,-0.32,-0.68,0.32,Used Last Month,Used >10 Years,Used >10 Years,CL1
+230,53.0,M,University Degree,0.96,-0.32,-1.05,1.45,Used Last Month,Never Used,Never Used,CL0
+231,39.0,M,Professional Cert.,0.96,-0.32,1.02,-2.21,Used Last Year,Never Used,Never Used,CL2
+233,27.0,M,University Degree,0.96,-0.32,0.04,1.29,Used Last Year,Used >10 Years,Never Used,CL0
+234,51.0,F,University Degree,0.96,-0.32,-0.68,0.81,Used Last Month,Never Used,Never Used,CL0
+235,34.0,M,University Degree,0.96,-0.32,0.42,0.96,Used 1-2 Years,Never Used,Never Used,CL0
+236,30.0,M,Professional Cert.,0.96,-0.32,0.04,0.96,Used Last Year,Never Used,Never Used,CL3
+237,26.0,M,Master’s Degree,0.96,-0.32,1.49,0.32,Used Last Month,Never Used,Never Used,CL0
+238,25.0,M,,0.96,-0.32,0.91,-0.15,Used Last Year,Used >10 Years,Used >10 Years,CL0
+239,21.0,M,,0.96,-0.32,0.52,-0.15,Used 1-2 Years,Never Used,Never Used,CL0
+240,50.0,M,Professional Cert.,0.96,-0.32,-1.87,0.64,Used Last Year,Never Used,Never Used,CL0
+241,43.0,M,Master’s Degree,0.96,5.00,0.63,-1.23,Used 1-2 Years,Never Used,Never Used,CL0
+242,26.0,M,,-0.29,5.00,2.13,-1.23,Used Last Year,Never Used,Never Used,CL0
+243,21.0,M,Some College,0.96,-0.32,1.49,-1.51,Used Last Year,Never Used,Never Used,CL0
+244,31.0,M,University Degree,0.96,-0.32,-0.58,1.11,Used Last Year,Used 2-5 Years,Used >10 Years,CL2
+245,42.0,F,University Degree,0.96,-0.32,1.98,-1.51,Used Last Year,Never Used,Never Used,CL3
+246,30.0,M,Some College,0.96,-0.32,-0.25,-0.95,Used Last Year,Used >10 Years,Never Used,CL0
+247,33.0,M,Professional Cert.,0.96,-0.32,1.37,-0.7,Used Last Year,Never Used,Never Used,CL2
+248,51.0,F,Master’s Degree,0.96,-0.32,-0.92,-0.3,Used Last Month,Never Used,Never Used,CL0
+249,52.0,M,Doctorate Degree,0.96,-0.32,-2.42,0.17,Used Last Year,Never Used,Never Used,CL0
+250,51.0,M,Professional Cert.,0.96,-0.32,1.13,0.32,Used Last Year,Never Used,Never Used,CL0
+252,44.0,M,University Degree,0.96,-0.32,0.63,-0.95,Used 1-2 Years,Never Used,Never Used,CL0
+253,19.0,M,Master’s Degree,0.96,-0.32,-1.44,0.96,Used Last Year,Never Used,Never Used,CL0
+254,45.0,M,Doctorate Degree,0.96,-0.32,-0.79,0.17,Used Last Month,Never Used,Never Used,CL0
+255,34.0,F,Professional Cert.,0.96,-0.32,1.37,-0.7,Used 1-2 Years,Never Used,Never Used,CL0
+256,35.0,M,Master’s Degree,0.96,-0.32,-1.19,1.74,Used Last Year,Used >10 Years,Never Used,CL0
+257,18.0,M,Some College,0.96,-0.32,-0.47,0.64,Used 1-2 Years,Used 5-10 Years,Never Used,CL0
+258,39.0,F,Doctorate Degree,0.96,-0.32,0.04,0.0,Used 1-2 Years,Used >10 Years,Used >10 Years,CL1
+261,50.0,M,Professional Cert.,0.96,-0.32,-0.47,0.96,Used Last Year,Never Used,Never Used,CL0
+262,64.0,F,University Degree,0.96,-0.32,-0.68,-0.44,Used 5-10 Years,Never Used,Used >10 Years,CL2
+263,45.0,F,Master’s Degree,0.96,-0.5,-0.92,0.81,Used 2-5 Years,Never Used,Never Used,CL0
+264,58.0,M,,0.96,-0.32,-1.05,0.0,Used Last Year,Never Used,Never Used,CL0
+265,21.0,M,University Degree,0.96,-0.32,-0.47,0.17,Used Last Year,Never Used,Never Used,CL0
+266,44.0,M,University Degree,0.96,-1.11,-0.25,0.0,Used 5-10 Years,Never Used,Never Used,CL0
+267,58.0,F,University Degree,0.96,-0.32,-1.19,-0.15,Used Last Month,Used >10 Years,Never Used,CL0
+268,39.0,F,Professional Cert.,0.96,-1.11,-0.92,1.45,Used Last Month,Never Used,Never Used,CL0
+269,49.0,M,Master’s Degree,0.96,-0.32,-1.05,1.74,Used Last Month,Never Used,Never Used,CL0
+270,42.0,M,Master’s Degree,0.96,-1.11,-0.92,0.17,Used 1-2 Years,Never Used,Never Used,CL2
+271,51.0,M,Master’s Degree,0.96,-0.32,-2.34,2.13,Used Last Month,Never Used,Never Used,CL0
+272,47.0,M,Master’s Degree,0.96,-0.32,0.74,-0.7,Used Last Month,Used >10 Years,Used >10 Years,CL0
+274,30.0,M,University Degree,0.96,-0.32,12.0,0.17,Used Last Month,Used 2-5 Years,Used 2-5 Years,CL4
+275,36.0,F,Master’s Degree,0.96,-0.32,12.0,0.96,Used Last Month,Used >10 Years,Used Last Month,CL5
+276,40.0,M,Master’s Degree,0.96,-0.32,0.42,-0.44,Used 1-2 Years,Never Used,Never Used,CL0
+277,57.0,F,Doctorate Degree,0.96,-0.32,-0.92,0.48,Used Last Month,Never Used,Never Used,CL0
+278,25.0,F,Some College,0.96,-0.32,-1.05,1.45,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL2
+279,49.0,M,University Degree,0.96,-0.32,-0.25,-0.44,Used Last Year,Never Used,Never Used,CL0
+280,51.0,F,Master’s Degree,0.96,-0.32,-1.33,0.81,Used Last Year,Used >10 Years,Never Used,CL2
+281,57.0,F,Master’s Degree,0.96,-0.32,-0.05,0.17,Used Last Month,Never Used,Never Used,CL0
+282,47.0,M,Some College,0.96,-0.32,0.04,-0.3,Used Last Year,Never Used,Never Used,CL1
+283,51.0,M,Master’s Degree,0.96,-0.32,-0.05,0.0,Used Last Year,Never Used,Never Used,CL0
+284,49.0,F,University Degree,0.96,-0.32,-0.92,1.58,Used Last Month,Never Used,Never Used,CL0
+285,40.0,F,Professional Cert.,-0.29,-0.32,-1.19,-0.81,Used 2-5 Years,Used 5-10 Years,Used 5-10 Years,CL3
+286,39.0,F,University Degree,0.96,-0.32,-0.92,1.29,Used Last Year,Never Used,Never Used,CL0
+288,47.0,F,Master’s Degree,0.96,-0.32,0.31,0.32,Used 2-5 Years,Never Used,Never Used,CL2
+289,33.0,F,Some College,0.96,-0.32,0.63,0.32,Used Last Month,Never Used,Never Used,CL0
+290,34.0,M,Master’s Degree,0.96,-0.32,-2.05,0.64,Used 1-2 Years,Never Used,Used >10 Years,CL0
+291,41.0,M,Professional Cert.,0.96,-1.11,-0.92,0.96,Never Used,Never Used,Never Used,CL0
+292,36.0,M,Some College,0.96,-0.32,0.63,-1.09,Used Last Year,Used >10 Years,Never Used,CL0
+293,49.0,M,Professional Cert.,0.96,-0.32,-0.05,-0.15,Used 2-5 Years,Never Used,Never Used,CL0
+295,32.0,M,Professional Cert.,0.96,-0.32,1.13,0.0,Used 2-5 Years,Used >10 Years,Used >10 Years,CL0
+296,18.0,M,,0.96,-0.32,-0.35,0.48,Used Last Year,Never Used,Never Used,CL0
+297,35.0,F,Professional Cert.,0.96,-0.32,1.37,-0.44,Used Last Year,Never Used,Used >10 Years,CL4
+300,36.0,M,University Degree,0.96,-0.32,0.14,-0.3,Used Last Year,Never Used,Never Used,CL0
+301,42.0,M,Professional Cert.,-0.57,-0.32,0.83,-0.95,Used Last Year,Never Used,Never Used,CL0
+302,25.0,M,Some College,-0.57,-0.32,-0.25,-0.44,Used 2-5 Years,Never Used,Never Used,CL0
+303,38.0,M,Doctorate Degree,0.96,-0.32,0.52,-0.44,Used Last Month,Never Used,Never Used,CL0
+304,58.0,M,Professional Cert.,0.96,-0.32,-0.15,0.64,Used Last Month,Never Used,Never Used,CL1
+305,53.0,M,University Degree,0.96,-0.32,-0.35,0.0,Used Last Month,Never Used,Never Used,CL0
+306,53.0,M,University Degree,0.96,-0.32,-1.05,-2.32,Used 1-2 Years,Used >10 Years,Used 5-10 Years,CL0
+307,43.0,F,Master’s Degree,0.96,-0.32,0.22,-1.23,Used Last Year,Never Used,Used >10 Years,CL0
+308,49.0,F,Master’s Degree,0.96,-0.32,-0.47,-0.58,Used Last Year,Never Used,Never Used,CL0
+309,35.0,M,,0.96,-0.32,-1.69,0.81,Used Last Year,Never Used,Never Used,CL0
+310,41.0,F,Master’s Degree,0.96,-0.32,-0.79,0.17,Used Last Month,Never Used,Never Used,CL0
+311,51.0,M,University Degree,0.96,-0.32,-1.33,-0.15,Used 2-5 Years,Never Used,Never Used,CL0
+312,18.0,M,,0.96,-0.32,1.13,-0.58,Used 2-5 Years,Never Used,Never Used,CL0
+313,48.0,M,Master’s Degree,0.96,-0.32,-0.35,0.0,Used Last Month,Never Used,Never Used,CL1
+314,31.0,M,Master’s Degree,0.96,-0.32,0.04,1.74,Used Last Year,Used >10 Years,Used >10 Years,CL0
+315,18.0,M,,0.21,-0.32,-0.58,0.17,Used Last Year,Never Used,Never Used,CL0
+316,48.0,M,Doctorate Degree,0.96,-0.32,-0.79,0.81,Used Last Year,Never Used,Never Used,CL0
+317,55.0,M,University Degree,0.96,-0.32,-0.47,0.81,Used Last Year,Used >10 Years,Never Used,CL0
+318,43.0,F,University Degree,0.96,-1.11,79.0,1.94,Used Last Year,Never Used,Never Used,CL0
+319,27.0,M,Professional Cert.,0.96,-0.32,79.0,0.0,Used 5-10 Years,Never Used,Never Used,CL0
+320,47.0,M,,0.96,Nan,0.31,-0.3,Used 1-2 Years,Never Used,Never Used,CL0
+321,48.0,M,University Degree,0.96,-0.32,0.74,-0.3,Used Last Year,Never Used,Never Used,CL0
+322,40.0,M,Some College,0.96,-0.32,0.52,-0.3,Used Last Year,Never Used,Never Used,CL0
+323,18.0,M,University Degree,0.96,-0.32,-0.79,0.48,Used Last Year,Never Used,Used 5-10 Years,CL0
+324,46.0,F,,0.96,-0.32,0.91,-1.09,Used Last Month,Used >10 Years,Used >10 Years,CL0
+325,26.0,M,Doctorate Degree,0.96,-0.32,0.22,0.0,Used Last Year,Never Used,Never Used,CL0
+326,37.0,M,Professional Cert.,0.96,-0.32,-0.79,1.29,Used Last Year,Never Used,Never Used,CL0
+327,41.0,F,,0.96,-0.32,-0.58,-1.63,Used Last Month,Used 2-5 Years,Used 5-10 Years,CL0
+328,40.0,F,Master’s Degree,0.96,-0.32,-1.87,1.58,Used Last Month,Never Used,Never Used,CL0
+329,31.0,M,Professional Cert.,0.96,-0.32,0.22,-0.3,Used Last Year,Never Used,Never Used,CL2
+330,46.0,F,Professional Cert.,0.96,-0.32,-0.35,0.48,Used 1-2 Years,Never Used,Never Used,CL1
+331,54.0,M,Professional Cert.,0.96,-0.32,,0.48,Used >10 Years,Never Used,Never Used,CL0
+332,42.0,F,,0.96,-0.32,,-0.44,Used Last Month,Used 5-10 Years,Used 5-10 Years,CL2
+333,62.0,M,,0.25,-0.32,-0.47,-0.44,Never Used,Never Used,Never Used,CL0
+334,22.0,M,Some College,0.96,-0.32,2.82,-1.92,Used Last Month,Never Used,Used 2-5 Years,CL0
+337,33.0,M,Master’s Degree,0.96,-0.32,0.42,-0.58,Used Last Month,Never Used,Never Used,CL0
+338,53.0,M,Master’s Degree,0.96,-1.11,0.63,0.17,Used Last Year,Never Used,Never Used,CL0
+339,53.0,M,Professional Cert.,0.25,-0.32,-0.58,0.32,Used Last Year,Used >10 Years,Used >10 Years,CL2
+340,35.0,F,Doctorate Degree,0.96,-0.32,-1.87,1.29,Used Last Month,Never Used,Never Used,CL0
+341,47.0,M,Professional Cert.,0.96,-0.32,-0.15,-0.3,Used Last Year,Never Used,Never Used,CL0
+342,37.0,M,Master’s Degree,0.96,-0.32,-0.47,1.11,Used Last Year,Never Used,Never Used,CL0
+343,63.0,M,Professional Cert.,0.96,-0.32,-1.69,0.96,Used Last Year,Never Used,Never Used,CL0
+344,61.0,M,Professional Cert.,0.96,-0.32,0.63,0.0,Used >10 Years,Never Used,Never Used,CL1
+345,21.0,M,,0.96,-0.32,0.22,-0.15,Used Last Year,Used 5-10 Years,Used 2-5 Years,CL6
+346,40.0,M,Master’s Degree,0.96,-0.32,-1.87,0.17,Used >10 Years,Used >10 Years,Used >10 Years,CL1
+347,36.0,M,University Degree,0.96,-0.32,0.04,0.48,Used 5-10 Years,Used 5-10 Years,Used 5-10 Years,CL2
+348,48.0,M,University Degree,0.96,-0.32,-0.15,1.74,Used Last Month,Used >10 Years,Never Used,CL0
+349,47.0,F,Master’s Degree,0.96,-0.32,-0.92,0.81,Used 5-10 Years,Used 5-10 Years,Used >10 Years,CL2
+350,50.0,F,Professional Cert.,0.96,-1.11,-0.58,0.32,Used Last Month,Never Used,Never Used,CL4
+351,54.0,F,University Degree,0.96,-0.32,0.52,-0.7,Used Last Year,Used >10 Years,Used >10 Years,CL1
+352,37.0,M,Some College,0.96,-0.32,1.02,-0.58,Used 1-2 Years,Used 5-10 Years,Used >10 Years,CL4
+353,43.0,F,Professional Cert.,0.96,-0.32,0.42,0.17,Used Last Year,Used 5-10 Years,Used >10 Years,CL4
+354,50.0,F,University Degree,0.96,-0.32,-0.15,-0.7,Used >10 Years,Used >10 Years,Used >10 Years,CL1
+355,25.0,F,,0.96,-0.32,-0.47,0.0,Used 5-10 Years,Used 5-10 Years,Used 5-10 Years,CL0
+356,42.0,F,Professional Cert.,0.96,-0.32,0.22,-0.15,Used 5-10 Years,Used >10 Years,Used >10 Years,CL2
+357,27.0,F,,0.96,-0.32,0.63,0.0,Used Last Month,Used >10 Years,Used 5-10 Years,CL3
+358,48.0,F,University Degree,0.96,-0.32,-1.19,-0.15,Used Last Month,Never Used,Never Used,CL1
+359,44.0,F,,0.96,-0.32,2.46,-1.23,Used 2-5 Years,Used 2-5 Years,Used >10 Years,CL1
+360,35.0,F,Some College,0.96,-0.32,0.42,-0.81,Used 5-10 Years,Used 5-10 Years,Used 5-10 Years,CL2
+361,25.0,M,Some College,0.96,-0.32,-0.58,1.58,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL2
+362,49.0,M,University Degree,0.96,-0.32,0.52,0.81,Used 5-10 Years,Used >10 Years,Used >10 Years,CL1
+363,38.0,M,Professional Cert.,0.96,-0.32,0.63,0.64,Used Last Year,Used Last Year,Used 5-10 Years,CL4
+364,47.0,F,University Degree,0.96,-0.32,0.42,0.32,Used 5-10 Years,Used >10 Years,Used >10 Years,CL2
+365,48.0,M,Professional Cert.,0.96,-0.32,1.23,-0.15,Used Last Year,Never Used,Never Used,CL1
+366,37.0,M,Doctorate Degree,0.96,-0.32,0.42,-0.15,Used Last Year,Never Used,Never Used,CL0
+367,48.0,F,Professional Cert.,0.96,-0.5,-0.15,0.0,Used Last Year,Never Used,Never Used,CL1
+368,42.0,M,University Degree,0.96,-0.5,-1.05,0.48,Never Used,Never Used,Never Used,CL0
+369,51.0,M,University Degree,0.96,-0.32,-1.19,0.48,Used Last Year,Never Used,Never Used,CL5
+370,26.0,F,Professional Cert.,0.96,-0.32,-0.05,-0.95,Used Last Month,Used >10 Years,Never Used,CL0
+371,28.0,M,University Degree,0.96,-0.32,1.23,0.32,Used 2-5 Years,Used 5-10 Years,Used 5-10 Years,CL5
+372,21.0,F,,0.25,-0.32,22.0,0.32,Used Last Year,Used 5-10 Years,Never Used,CL0
+373,44.0,M,University Degree,0.96,-0.32,22.0,2.32,Used Last Year,Never Used,Never Used,CL3
+374,21.0,M,Some College,0.96,-0.32,22.0,0.96,Used Last Day,Used 5-10 Years,Used 5-10 Years,CL0
+375,46.0,F,University Degree,0.96,-0.32,-0.35,-1.76,Used Last Day,Used >10 Years,Used >10 Years,CL0
+376,59.0,M,Master’s Degree,0.96,-0.32,-0.25,1.29,Used Last Month,Never Used,Never Used,CL0
+378,46.0,M,Master’s Degree,0.96,-0.32,-0.92,0.0,Used Last Year,Never Used,Never Used,CL0
+379,33.0,M,University Degree,0.96,-0.32,-0.47,-0.58,Used Last Year,Never Used,Never Used,CL0
+380,33.0,F,Master’s Degree,-0.29,-0.32,0.83,-0.95,Never Used,Never Used,Never Used,CL0
+381,53.0,M,Professional Cert.,0.96,-0.32,0.83,-0.44,Used Last Month,Never Used,Never Used,CL0
+382,41.0,F,University Degree,0.96,-0.32,-0.47,1.11,Used 5-10 Years,Used 5-10 Years,Used 5-10 Years,CL2
+383,37.0,F,,-0.29,-0.32,-0.35,-0.58,Used 1-2 Years,Used >10 Years,Used >10 Years,CL0
+384,39.0,M,Master’s Degree,-0.29,-0.32,-0.79,0.17,Used Last Year,Never Used,Never Used,CL0
+385,47.0,M,University Degree,0.96,-0.32,0.14,-0.3,Used Last Year,Never Used,Never Used,CL0
+386,51.0,M,University Degree,0.96,-1.11,-0.25,0.17,Used >10 Years,Never Used,Never Used,CL0
+387,34.0,F,Professional Cert.,0.96,-0.32,-0.58,-0.44,Used Last Year,Never Used,Used 5-10 Years,CL0
+388,54.0,F,,0.96,-0.32,-2.05,0.48,Used 1-2 Years,Never Used,Never Used,CL0
+389,29.0,F,University Degree,0.96,-1.11,-1.33,0.32,Never Used,Never Used,Never Used,CL0
+390,41.0,F,Professional Cert.,0.96,-0.32,0.14,-0.3,Used 2-5 Years,Never Used,Never Used,CL0
+391,30.0,F,Doctorate Degree,0.96,-0.32,-0.58,0.32,Used Last Year,Never Used,Never Used,CL0
+392,39.0,M,Some College,0.96,-0.32,-0.68,-0.44,Used 5-10 Years,Never Used,Used >10 Years,CL3
+393,26.0,M,University Degree,0.96,-0.32,0.63,0.0,Used Last Year,Never Used,Never Used,CL0
+394,40.0,M,,0.96,-0.32,-0.47,0.32,Used Last Year,Never Used,Never Used,CL0
+395,27.0,M,Professional Cert.,0.96,-0.32,-0.79,-0.15,Used Last Month,Never Used,Never Used,CL0
+396,33.0,F,Professional Cert.,0.96,-0.32,-1.44,0.64,Used Last Month,Used 5-10 Years,Used >10 Years,CL0
+397,36.0,F,University Degree,0.96,-0.32,0.22,1.29,Used Last Month,Used >10 Years,Used >10 Years,CL1
+398,36.0,M,University Degree,0.96,-0.32,-1.87,0.64,Used Last Month,Never Used,Never Used,CL0
+399,48.0,F,Professional Cert.,0.96,-0.32,0.14,0.48,Used Last Month,Never Used,Never Used,CL0
+400,32.0,M,Master’s Degree,0.96,-0.32,-0.79,0.32,Used Last Month,Never Used,Never Used,CL0
+401,49.0,F,Master’s Degree,0.96,-0.32,-0.92,1.29,Used >10 Years,Used >10 Years,Used >10 Years,CL0
+402,25.0,M,,0.96,-0.32,-0.15,-0.15,Used 1-2 Years,Never Used,Never Used,CL0
+403,50.0,F,,0.96,-0.32,0.14,-1.09,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL0
+404,18.0,F,Some College,0.96,-0.32,-0.92,-0.7,Used Last Year,Never Used,Never Used,CL0
+405,23.0,F,University Degree,0.96,-0.32,-1.44,0.64,Used Last Year,Never Used,Never Used,CL2
+406,47.0,F,,0.96,-0.32,0.91,-0.15,Used 2-5 Years,Used >10 Years,Used >10 Years,CL1
+407,20.0,M,,0.96,-0.32,0.14,1.58,Used Last Year,Used 2-5 Years,Used 5-10 Years,CL3
+408,49.0,M,University Degree,0.96,-0.32,1.84,-0.95,Used 2-5 Years,Used >10 Years,Never Used,CL0
+409,41.0,F,,0.96,0.11,1.37,-0.15,Used Last Month,Used >10 Years,Used >10 Years,CL2
+410,25.0,F,University Degree,0.96,-0.32,-0.68,0.17,Used 2-5 Years,Used >10 Years,Used >10 Years,CL1
+411,38.0,M,Professional Cert.,-0.57,-0.32,-1.55,0.81,Used >10 Years,Used >10 Years,Never Used,CL2
+412,54.0,F,,0.96,-0.32,1.02,-1.38,Used Last Year,Never Used,Never Used,CL3
+413,44.0,M,Some College,-0.29,-0.32,-0.47,-1.51,Used 2-5 Years,Used >10 Years,Used >10 Years,CL1
+414,28.0,M,University Degree,0.96,-0.32,0.14,1.11,Used Last Month,Never Used,Never Used,CL0
+415,42.0,F,Some College,0.96,-0.32,0.04,-0.15,Used Last Year,Never Used,Never Used,CL2
+416,42.0,M,Some College,0.96,-0.32,-1.87,0.32,Used Last Month,Never Used,Never Used,CL0
+417,18.0,F,,0.96,-0.32,-0.58,-1.09,Used Last Month,Never Used,Never Used,CL0
+418,24.0,F,Some College,0.96,-0.32,-0.05,-0.7,Used Last Year,Used >10 Years,Used >10 Years,CL3
+419,32.0,F,Some College,0.96,-0.32,-0.79,0.96,Used Last Year,Never Used,Never Used,CL0
+420,34.0,M,Doctorate Degree,0.96,-0.32,0.31,0.0,Used Last Month,Never Used,Never Used,CL0
+421,33.0,F,University Degree,0.96,-0.32,0.63,0.17,Used Last Month,Used >10 Years,Never Used,CL0
+422,24.0,F,,0.96,-0.32,0.31,0.81,Used 1-2 Years,Never Used,Never Used,CL0
+423,31.0,F,Some College,0.96,-0.32,0.31,-1.76,Used Last Year,Never Used,Never Used,CL0
+424,39.0,F,Professional Cert.,0.96,-0.32,-0.79,-0.15,Used 1-2 Years,Used >10 Years,Never Used,CL3
+425,44.0,M,University Degree,0.96,0.13,-1.05,0.81,Used Last Month,Never Used,Never Used,CL0
+426,54.0,M,Doctorate Degree,-0.57,-0.32,0.52,0.0,Used 2-5 Years,Never Used,Never Used,CL1
+427,35.0,F,University Degree,0.96,-0.32,-0.35,-0.3,Used Last Month,Used >10 Years,Used >10 Years,CL0
+428,52.0,F,,0.96,-0.32,0.22,0.0,Used Last Year,Used >10 Years,Used >10 Years,CL3
+429,39.0,F,University Degree,-0.29,-0.32,0.63,-0.81,Used Last Month,Never Used,Never Used,CL1
+430,28.0,M,,0.96,-0.32,-0.92,-0.15,Used Last Year,Used 5-10 Years,Used >10 Years,CL3
+431,30.0,F,,0.96,-0.32,0.22,-0.95,Used Last Year,Never Used,Never Used,CL0
+432,27.0,M,,0.96,-0.32,0.04,0.32,Used Last Year,Used >10 Years,Used >10 Years,CL0
+433,26.0,F,University Degree,0.96,-0.32,-0.25,-0.3,Used Last Year,Never Used,Never Used,CL0
+434,53.0,M,,0.96,-0.32,0.22,1.94,Used Last Month,Never Used,Never Used,CL0
+435,19.0,M,University Degree,0.96,-0.32,-0.15,0.96,Used Last Year,Never Used,Never Used,CL0
+436,32.0,M,University Degree,0.96,-0.32,0.04,0.48,Used 1-2 Years,Never Used,Never Used,CL0
+437,64.0,F,Some College,-0.57,-0.32,-0.68,-0.3,Used >10 Years,Used >10 Years,Never Used,CL0
+438,50.0,F,,0.96,-0.32,-1.44,0.48,Used Last Month,Never Used,Used >10 Years,CL2
+439,29.0,M,University Degree,-0.57,-0.32,2.82,-0.44,Used Last Year,Never Used,Never Used,CL6
+440,19.0,M,Some College,-0.57,-0.32,1.37,-0.3,Used 1-2 Years,Never Used,Never Used,CL0
+441,37.0,M,University Degree,0.96,-0.32,-0.47,0.48,Used Last Month,Used >10 Years,Used >10 Years,CL0
+442,18.0,M,Some College,0.96,-0.32,-0.68,1.45,Used 2-5 Years,Never Used,Never Used,CL0
+443,32.0,M,Master’s Degree,0.96,-0.32,-0.92,0.0,Used Last Year,Never Used,Never Used,CL0
+444,36.0,F,,0.96,-0.32,0.42,0.64,Used Last Year,Never Used,Never Used,CL0
+446,53.0,M,University Degree,0.96,-0.32,1.02,-0.95,Used Last Year,Never Used,Used >10 Years,CL0
+447,25.0,M,University Degree,0.96,-0.32,0.22,-1.09,Used Last Month,Never Used,Never Used,CL2
+448,28.0,F,Master’s Degree,0.96,-0.32,0.04,-0.15,Used Last Month,Never Used,Used >10 Years,CL0
+449,22.0,M,Some College,0.96,-0.32,1.13,1.45,Used Last Year,Used >10 Years,Used >10 Years,CL3
+450,23.0,F,University Degree,0.96,-0.32,-0.35,0.64,Used Last Year,Never Used,Never Used,CL0
+451,21.0,M,University Degree,0.96,-0.32,0.74,-0.15,Used Last Year,Never Used,Never Used,CL2
+452,20.0,M,Master’s Degree,0.96,-0.32,-1.19,0.81,Used Last Year,Never Used,Never Used,CL0
+453,41.0,M,University Degree,0.96,-0.32,-0.15,-0.15,Used Last Year,Never Used,Never Used,CL0
+454,28.0,F,University Degree,0.96,-0.32,1.23,-1.76,Used Last Year,Never Used,Never Used,CL0
+455,49.0,F,Doctorate Degree,0.96,-0.32,-0.15,-0.58,Used Last Month,Used Last Month,Used 5-10 Years,CL5
+456,20.0,M,University Degree,0.96,-0.32,0.83,-0.81,Used Last Month,Used 2-5 Years,Used 2-5 Years,CL0
+457,41.0,F,University Degree,0.96,-0.32,1.6,-0.44,Used Last Month,Used 2-5 Years,Used >10 Years,CL4
+458,43.0,M,Master’s Degree,0.96,-0.32,-0.47,-0.58,Used Last Year,Never Used,Never Used,CL0
+459,19.0,M,University Degree,0.96,-0.32,0.63,0.0,Used Last Month,Used 1-2 Years,Used 5-10 Years,CL0
+460,31.0,F,Master’s Degree,0.96,-0.32,0.91,1.29,Used 1-2 Years,Used 2-5 Years,Never Used,CL0
+461,20.0,M,University Degree,0.96,-0.32,1.23,-1.38,Used Last Month,Used 2-5 Years,Used 2-5 Years,CL4
+462,18.0,F,Some College,0.96,-0.32,1.49,-1.38,Used Last Year,Never Used,Used 5-10 Years,CL0
+463,42.0,F,Some College,0.96,-0.32,0.83,0.48,Used 2-5 Years,Used 5-10 Years,Used 5-10 Years,CL1
+464,47.0,F,,0.96,-0.32,1.02,-0.95,Used Last Month,Used >10 Years,Used 5-10 Years,CL0
+465,22.0,M,University Degree,0.96,-0.32,0.31,-0.81,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL3
+466,22.0,M,Master’s Degree,0.96,-0.32,1.37,-1.09,Used Last Year,Never Used,Used 5-10 Years,CL0
+467,24.0,M,University Degree,0.96,-0.5,0.31,0.64,Never Used,Used 5-10 Years,Never Used,CL2
+468,53.0,F,University Degree,0.96,-0.32,0.22,0.0,Used Last Month,Used >10 Years,Used >10 Years,CL0
+469,36.0,F,University Degree,0.96,-0.32,-0.05,0.17,Used Last Month,Never Used,Never Used,CL0
+470,30.0,F,University Degree,0.96,-0.32,-1.19,1.74,Used Last Year,Used 2-5 Years,Used 5-10 Years,CL0
+471,51.0,M,,-0.57,-0.32,2.82,-1.63,Used 2-5 Years,Used >10 Years,Used >10 Years,CL6
+472,24.0,M,University Degree,0.96,-0.32,0.14,0.81,Used 1-2 Years,Never Used,Never Used,CL0
+473,18.0,F,Master’s Degree,0.96,-0.22,-0.92,2.57,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL2
+474,20.0,M,,0.96,-0.32,0.31,0.0,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL2
+475,35.0,M,Some College,-0.57,-0.32,1.37,0.0,Used 5-10 Years,Never Used,Never Used,CL3
+476,60.0,M,University Degree,0.96,0.13,-0.25,0.96,Used Last Month,Never Used,Never Used,CL0
+477,53.0,M,University Degree,-0.57,-0.32,-1.19,0.96,Used 2-5 Years,Used >10 Years,Never Used,CL0
+478,36.0,F,University Degree,0.96,-0.32,1.72,-0.95,Used Last Month,Never Used,Never Used,CL0
+479,44.0,M,Professional Cert.,0.96,-0.32,1.49,-0.7,Used Last Month,Never Used,Used >10 Years,CL6
+480,34.0,M,University Degree,0.96,-0.32,0.42,0.81,Used Last Month,Never Used,Never Used,CL0
+481,32.0,M,Master’s Degree,-0.1,-0.32,0.42,-0.44,Used Last Month,Never Used,Never Used,CL2
+482,22.0,F,Some College,-0.57,-0.32,1.13,-0.81,Used 2-5 Years,Used 2-5 Years,Never Used,CL3
+483,36.0,M,University Degree,-0.1,-0.32,1.02,0.17,Used Last Month,Used 5-10 Years,Used >10 Years,CL6
+484,43.0,F,Some College,0.96,-0.32,-0.68,-0.15,Never Used,Used >10 Years,Never Used,CL0
+485,26.0,M,University Degree,0.96,-0.32,1.23,0.48,Used 5-10 Years,Never Used,Used 5-10 Years,CL2
+486,36.0,M,,0.96,-0.32,-0.58,0.96,Used 1-2 Years,Used >10 Years,Used >10 Years,CL0
+487,51.0,M,,0.96,-0.32,-0.47,0.32,Used Last Month,Never Used,Used >10 Years,CL0
+488,27.0,F,,-0.29,-0.32,1.49,-1.63,Used Last Year,Used Last Year,Never Used,CL2
+489,37.0,M,,-0.57,-0.32,1.84,-1.76,Used 1-2 Years,Never Used,Never Used,CL6
+490,26.0,F,,0.96,-0.32,0.42,-1.38,Used Last Month,Used 2-5 Years,Used 5-10 Years,CL2
+491,20.0,F,,0.96,-0.32,1.98,-1.38,Used 2-5 Years,Never Used,Never Used,CL0
+492,20.0,F,Some College,0.96,-0.32,-1.05,1.11,Used Last Year,Never Used,Never Used,CL0
+493,47.0,M,Professional Cert.,0.96,-0.32,0.63,0.81,Used Last Year,Used >10 Years,Used >10 Years,CL1
+494,19.0,F,,0.96,-0.32,-0.92,0.48,Used Last Month,Used 5-10 Years,Used 5-10 Years,CL0
+495,18.0,F,Professional Cert.,0.96,-0.32,0.52,-0.58,Used Last Year,Never Used,Used 1-2 Years,CL4
+496,22.0,F,Some College,0.96,-0.32,0.74,-1.63,Used Last Month,Never Used,Never Used,CL0
+497,21.0,F,Professional Cert.,-0.29,0.11,-1.19,-0.44,Used 1-2 Years,Never Used,Used 5-10 Years,CL0
+498,59.0,F,Some College,-0.57,-0.32,-0.79,0.17,Used 2-5 Years,Used >10 Years,Never Used,CL1
+499,33.0,F,Master’s Degree,0.96,-0.32,0.04,1.29,Used Last Month,Used 5-10 Years,Used 5-10 Years,CL2
+500,34.0,F,,-0.29,-0.32,-0.05,-0.58,Used 1-2 Years,Used >10 Years,Used >10 Years,CL0
+501,56.0,M,Some College,0.96,-0.32,1.37,-0.7,Used Last Year,Used >10 Years,Used >10 Years,CL3
+502,38.0,M,Professional Cert.,0.21,-0.32,0.04,0.48,Used 2-5 Years,Never Used,Used >10 Years,CL2
+503,31.0,M,Professional Cert.,0.96,-0.32,-0.58,-0.15,Used 2-5 Years,Used >10 Years,Never Used,CL0
+504,24.0,F,Some College,-0.57,-0.32,-1.55,0.64,Used Last Year,Never Used,Never Used,CL0
+505,59.0,M,Professional Cert.,0.25,-0.32,0.04,-0.3,Used >10 Years,Never Used,Used >10 Years,CL4
+506,44.0,F,,0.96,-0.32,-0.05,0.0,Used >10 Years,Never Used,Never Used,CL0
+507,49.0,F,,-0.29,-0.32,0.42,0.48,,Used >10 Years,Never Used,CL3
+508,37.0,F,University Degree,0.96,-0.32,-0.47,0.64,,Used 5-10 Years,Used 2-5 Years,CL1
+509,34.0,F,University Degree,0.96,-0.32,0.14,-0.3,Used 2-5 Years,Used 5-10 Years,Used 2-5 Years,CL0
+510,43.0,F,,0.96,-0.32,1.49,-1.09,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL3
+511,35.0,M,Master’s Degree,-0.29,-0.32,-1.05,1.11,Used Last Year,Never Used,Never Used,CL0
+512,40.0,F,University Degree,0.96,-0.32,0.04,0.96,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL0
+513,46.0,M,Master’s Degree,0.96,-0.32,0.42,0.48,Used Last Year,Used >10 Years,Used >10 Years,CL1
+514,22.0,F,Some College,0.96,-0.32,0.42,0.48,Used Last Month,Used 2-5 Years,Never Used,CL0
+515,62.0,F,,-0.57,-0.32,-0.15,-0.3,Used 2-5 Years,Used 5-10 Years,Used >10 Years,CL1
+516,42.0,F,,0.96,-0.32,0.91,-0.3,Used Last Month,Never Used,Never Used,CL0
+517,21.0,M,,-0.57,-0.32,-1.44,1.94,Used Last Year,Used 2-5 Years,Never Used,CL5
+518,42.0,M,,0.96,-0.32,-0.15,0.17,Used Last Month,Used 5-10 Years,Used 5-10 Years,CL2
+519,26.0,M,Master’s Degree,0.96,-0.32,0.31,-0.15,Used 5-10 Years,Never Used,Used 5-10 Years,CL3
+520,31.0,F,Professional Cert.,-0.29,-0.32,0.52,-0.58,Used 5-10 Years,Used 2-5 Years,Used 5-10 Years,CL6
+521,26.0,F,Master’s Degree,0.96,-0.32,-0.15,0.32,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL4
+522,36.0,M,University Degree,0.96,-0.32,0.22,-0.3,Used Last Year,Never Used,Used 5-10 Years,CL0
+523,46.0,M,,-0.1,-0.32,0.63,-0.3,Used 2-5 Years,Never Used,Never Used,CL6
+524,20.0,F,,-0.57,-0.32,0.04,0.32,Used Last Year,Never Used,Never Used,CL0
+525,19.0,F,,0.96,-0.32,-0.25,0.48,Used Last Year,Never Used,Never Used,CL0
+526,36.0,M,,0.96,-0.32,0.14,-0.81,Used 5-10 Years,Used 5-10 Years,Used 5-10 Years,CL2
+527,47.0,M,University Degree,-0.1,-0.32,-0.68,0.64,Used Last Year,Used >10 Years,Used >10 Years,CL6
+528,55.0,F,,0.96,-0.32,-1.87,0.48,Used Last Month,Never Used,Never Used,CL0
+529,19.0,F,Professional Cert.,0.96,-0.32,0.91,-1.38,Used 1-2 Years,Never Used,Used 5-10 Years,CL0
+530,43.0,F,Doctorate Degree,0.96,-0.32,0.63,-0.15,Used Last Month,Never Used,Never Used,CL0
+531,25.0,M,Professional Cert.,0.96,-0.32,0.74,1.11,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL1
+532,59.0,F,University Degree,0.96,-0.32,0.91,0.0,Used Last Year,Never Used,Never Used,CL0
+533,52.0,F,University Degree,0.96,-0.32,1.02,-1.51,Used Last Year,Used 5-10 Years,Used >10 Years,CL2
+534,23.0,M,University Degree,0.96,-0.32,-0.25,0.17,Used 1-2 Years,Never Used,Never Used,CL2
+535,29.0,F,Master’s Degree,0.96,-0.32,-0.35,-0.15,Used 1-2 Years,Never Used,Never Used,CL0
+536,44.0,M,Master’s Degree,0.96,-0.32,-1.87,2.32,Used Last Month,Never Used,Never Used,CL0
+537,27.0,M,University Degree,-0.57,-0.32,0.91,0.0,Used Last Year,Used 1-2 Years,Never Used,CL6
+538,23.0,M,University Degree,0.96,-0.32,1.37,0.81,Used Last Month,Never Used,Used 2-5 Years,CL0
+539,49.0,M,Some College,0.96,-0.5,0.74,-0.3,Never Used,Never Used,Never Used,CL0
+540,41.0,M,University Degree,0.96,-0.32,1.13,-0.3,Used Last Month,Never Used,Never Used,CL0
+541,48.0,F,Master’s Degree,0.96,-0.32,-1.33,1.29,Used Last Month,Never Used,Never Used,CL1
+542,49.0,M,University Degree,0.96,-0.32,-1.05,0.32,Used Last Year,Never Used,Never Used,CL2
+543,52.0,M,University Degree,-0.29,-1.11,0.22,0.81,Used 1-2 Years,Never Used,Never Used,CL0
+544,43.0,F,,0.96,-0.32,0.74,0.81,Used Last Month,Used >10 Years,Used >10 Years,CL5
+545,27.0,M,University Degree,0.96,-0.32,0.83,0.64,Used Last Month,Never Used,Never Used,CL0
+546,18.0,M,,0.96,-0.32,1.23,-0.58,Used Last Year,Never Used,Used 5-10 Years,CL0
+547,40.0,M,Professional Cert.,0.96,-0.32,1.6,0.17,Used Last Year,Never Used,Never Used,CL2
+548,51.0,M,Some College,-0.57,-0.32,-0.92,-0.44,Used 5-10 Years,Used 5-10 Years,Never Used,CL2
+549,25.0,M,Master’s Degree,0.96,-0.32,-1.87,-0.7,Used Last Year,Never Used,Never Used,CL0
+550,20.0,F,University Degree,0.96,-0.32,1.23,-0.44,Used 1-2 Years,Never Used,Never Used,CL0
+551,30.0,M,Master’s Degree,-0.29,-0.32,-1.19,1.11,Used 1-2 Years,Never Used,Never Used,CL0
+552,21.0,M,University Degree,0.96,-0.32,-0.15,-0.44,Used Last Month,Never Used,Never Used,CL0
+553,39.0,M,Master’s Degree,0.96,-0.32,-0.79,1.29,Used 1-2 Years,Used 5-10 Years,Used >10 Years,CL0
+554,20.0,M,Master’s Degree,0.96,-0.32,1.72,-1.51,Used 5-10 Years,Never Used,Never Used,CL0
+555,32.0,M,Master’s Degree,-0.29,-0.22,1.02,-1.92,Used Last Month,Never Used,Never Used,CL0
+556,25.0,M,Doctorate Degree,0.96,-0.32,0.63,0.48,Used 1-2 Years,Never Used,Never Used,CL0
+557,54.0,M,Master’s Degree,0.96,-0.32,0.22,-0.95,Used Last Month,Never Used,Never Used,CL0
+558,20.0,M,University Degree,0.96,-0.32,-0.15,-0.3,Used Last Month,Used 5-10 Years,Used 5-10 Years,CL0
+559,25.0,M,University Degree,0.96,-0.32,-1.69,0.96,Used 1-2 Years,Never Used,Never Used,CL0
+560,20.0,M,University Degree,0.96,-0.32,-0.47,-0.15,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL0
+561,47.0,M,University Degree,0.96,-0.32,-0.79,0.0,Used Last Month,Used >10 Years,Used >10 Years,CL0
+562,18.0,M,University Degree,0.96,-0.32,1.02,0.17,Used Last Month,Never Used,Never Used,CL0
+563,42.0,M,University Degree,0.96,-0.32,0.63,0.64,Used Last Year,Used >10 Years,Never Used,CL3
+564,39.0,M,Master’s Degree,0.96,Nan,2.61,0.48,Used Last Month,Never Used,Used >10 Years,CL1
+565,33.0,M,Master’s Degree,0.96,-0.32,0.83,0.32,Used Last Year,Never Used,Used 2-5 Years,CL2
+566,46.0,M,Some College,0.96,-0.32,-0.47,-0.44,Used 5-10 Years,Used Last Month,Never Used,CL0
+567,48.0,M,Master’s Degree,0.96,-0.32,0.31,-0.81,Used Last Year,Never Used,Never Used,CL1
+568,21.0,M,University Degree,0.96,-0.32,0.91,1.11,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL2
+569,18.0,F,University Degree,0.96,-0.32,1.84,0.64,Used Last Month,Never Used,Used 5-10 Years,CL0
+570,38.0,F,Master’s Degree,0.96,-0.32,1.02,-0.81,Used >10 Years,Never Used,Never Used,CL0
+571,41.0,M,Doctorate Degree,0.96,-0.32,-0.35,0.81,Used Last Month,Never Used,Never Used,CL0
+572,40.0,M,Professional Cert.,-0.1,-0.32,0.22,1.11,Used Last Month,Never Used,Never Used,CL0
+573,22.0,M,Master’s Degree,0.96,-0.32,-1.69,1.94,Used Last Month,Never Used,Never Used,CL0
+574,44.0,F,Professional Cert.,0.96,-0.32,1.23,-1.23,Used Last Month,Used >10 Years,Used >10 Years,CL1
+575,64.0,M,Some College,-0.57,-0.32,-0.92,0.96,Used Last Year,Never Used,Never Used,CL2
+576,40.0,M,University Degree,0.96,-0.32,2.13,-1.51,Used Last Month,Used >10 Years,Never Used,CL0
+577,36.0,F,,0.96,-0.32,-1.87,0.81,Used Last Year,Never Used,Never Used,CL0
+578,29.0,M,Master’s Degree,0.96,0.11,0.83,0.32,Used 1-2 Years,Never Used,Never Used,CL0
+579,26.0,M,University Degree,0.96,-0.32,1.02,0.81,Used 1-2 Years,Never Used,Never Used,CL0
+580,53.0,M,Master’s Degree,0.96,-0.32,1.02,-0.15,Used Last Month,Used >10 Years,Never Used,CL2
+581,23.0,M,Master’s Degree,0.96,-0.32,-0.15,0.81,Used Last Year,Never Used,Used 5-10 Years,CL0
+582,36.0,M,Some College,0.96,-0.32,-1.19,0.0,Used Last Month,Used >10 Years,Used >10 Years,CL1
+583,23.0,F,Some College,0.96,-0.32,-0.92,1.58,Used Last Month,Never Used,Used 1-2 Years,CL0
+584,36.0,M,Professional Cert.,0.96,-0.32,0.31,1.29,Used Last Month,Never Used,Never Used,CL0
+585,23.0,M,Some College,-0.57,-0.32,0.63,0.0,Used Last Year,Never Used,Never Used,CL3
+586,34.0,F,University Degree,0.96,-0.32,-0.25,0.17,Used 5-10 Years,Never Used,Used 5-10 Years,CL0
+587,20.0,F,Professional Cert.,0.96,-0.32,0.74,-0.58,Used 5-10 Years,Never Used,Never Used,CL0
+588,24.0,F,Some College,0.96,-0.32,0.31,0.32,Used Last Year,Used Last Year,Used 5-10 Years,CL4
+589,30.0,M,,0.96,-0.32,-0.47,1.58,Used Last Year,Used 2-5 Years,Used >10 Years,CL3
+590,61.0,M,Some College,-0.57,-0.32,-1.33,-0.15,Used 5-10 Years,Used >10 Years,Never Used,CL1
+591,40.0,F,,0.96,-0.32,-0.58,0.0,Used 2-5 Years,Used 2-5 Years,Used 5-10 Years,CL1
+592,35.0,M,University Degree,0.96,-0.32,0.42,-0.44,Used Last Month,Never Used,Never Used,CL1
+593,43.0,M,Professional Cert.,-0.57,-0.32,-2.76,0.96,Used Last Year,Never Used,Never Used,CL0
+594,25.0,F,Professional Cert.,-0.29,-0.22,-0.05,0.96,Used Last Year,Never Used,Used 2-5 Years,CL0
+595,37.0,F,,0.96,-0.32,-0.35,-0.58,Used Last Year,Used 5-10 Years,Used 2-5 Years,CL4
+596,49.0,F,Professional Cert.,-0.29,-0.32,0.31,0.17,Used Last Month,Used >10 Years,Used >10 Years,CL2
+597,20.0,F,,0.96,-0.32,-1.44,0.81,Used Last Year,Used 5-10 Years,Never Used,CL0
+598,60.0,M,Professional Cert.,0.25,-0.32,-0.35,-0.44,Used >10 Years,Used Last Month,Used >10 Years,CL2
+599,49.0,M,Professional Cert.,-0.57,-0.32,0.04,0.17,Used Last Year,Used 1-2 Years,Never Used,CL2
+600,21.0,F,Some College,0.96,-0.32,0.52,-0.15,Used 1-2 Years,Used Last Month,Used 5-10 Years,CL0
+601,45.0,M,Master’s Degree,0.96,-0.32,0.74,-0.58,Used Last Month,Used Last Year,Never Used,CL0
+602,24.0,F,Some College,-0.57,-0.32,1.02,1.11,Used 1-2 Years,Used 2-5 Years,Never Used,CL0
+603,24.0,F,Some College,-0.57,-0.32,0.52,-1.63,Used Last Month,Used Last Month,Never Used,CL0
+604,22.0,F,Some College,-0.57,-0.32,1.98,-0.95,Used Last Month,Used Last Year,Never Used,CL2
+605,28.0,F,University Degree,-0.57,-0.32,-0.68,-0.81,Used Last Year,Used Last Year,Never Used,CL2
+606,38.0,M,Some College,-0.57,-0.32,0.42,0.32,Used Last Year,Never Used,Never Used,CL5
+607,63.0,M,Master’s Degree,-0.57,-0.32,-2.52,1.11,Used Last Year,Used Last Month,Used >10 Years,CL2
+608,18.0,F,University Degree,0.96,-0.32,-0.47,0.0,Used Last Year,Used Last Month,Never Used,CL0
+609,54.0,F,Some College,-0.57,-0.32,-0.05,0.0,Used 5-10 Years,Used Last Year,Never Used,CL0
+610,28.0,F,University Degree,0.96,-0.32,-1.69,1.29,Used Last Month,Used 2-5 Years,Used 1-2 Years,CL4
+611,55.0,M,Professional Cert.,0.25,-0.32,1.23,-0.81,Used 1-2 Years,Used 1-2 Years,Never Used,CL1
+612,32.0,F,Some College,0.96,-0.32,-0.92,0.96,Used Last Month,Used Last Year,Used 5-10 Years,CL0
+613,32.0,F,University Degree,0.96,-0.32,-0.68,0.32,Used Last Year,Used Last Year,Never Used,CL0
+614,39.0,F,University Degree,0.96,-0.32,-1.19,0.17,Used >10 Years,Used 5-10 Years,Used >10 Years,CL1
+615,33.0,M,Master’s Degree,0.96,-0.32,1.98,-0.3,Used Last Month,Used 2-5 Years,Used 5-10 Years,CL5
+616,26.0,M,,-0.57,-0.32,-0.25,0.64,Used 2-5 Years,Used 5-10 Years,Never Used,CL3
+617,35.0,M,Master’s Degree,0.96,-0.32,0.14,-0.15,Used Last Month,Never Used,Never Used,CL1
+618,45.0,M,Some College,-0.57,-0.32,1.02,0.17,Used 5-10 Years,Used Last Month,Used >10 Years,CL6
+619,50.0,F,Professional Cert.,0.21,-0.32,-0.92,1.29,Used 2-5 Years,Used 5-10 Years,Used 5-10 Years,CL3
+620,34.0,M,University Degree,0.96,-0.32,-0.05,1.11,Used Last Year,Never Used,Used 5-10 Years,CL0
+621,56.0,F,Master’s Degree,0.96,-0.32,-0.68,-0.95,Used Last Year,Never Used,Never Used,CL0
+622,18.0,F,,0.96,-0.32,0.52,-1.38,Used Last Year,Never Used,Never Used,CL0
+623,37.0,F,Master’s Degree,0.96,-0.32,-0.92,0.64,Used Last Year,Never Used,Used >10 Years,CL0
+624,35.0,M,Master’s Degree,0.96,-0.32,-0.15,0.48,Used Last Year,Never Used,Never Used,CL0
+625,48.0,M,Master’s Degree,0.96,-0.32,-0.35,0.0,Used Last Month,Never Used,Used >10 Years,CL0
+626,44.0,M,Doctorate Degree,0.96,-0.32,0.04,0.0,Used Last Month,Never Used,Never Used,CL1
+627,41.0,M,Professional Cert.,0.96,-0.32,-0.35,-0.58,Used Last Month,Used >10 Years,Never Used,CL0
+628,38.0,F,University Degree,0.96,-0.32,-0.05,-0.44,Used Last Month,Used >10 Years,Used 5-10 Years,CL0
+629,44.0,F,Doctorate Degree,0.96,-0.32,-1.69,-0.95,Used Last Year,Used >10 Years,Used >10 Years,CL2
+630,34.0,M,Doctorate Degree,0.96,-0.32,1.23,-1.09,Used Last Year,Never Used,Never Used,CL0
+631,49.0,M,Doctorate Degree,0.96,-0.22,-0.47,0.48,Used Last Year,Never Used,Never Used,CL1
+632,35.0,M,Doctorate Degree,0.96,-0.32,0.52,-0.3,Used Last Month,Used >10 Years,Never Used,CL0
+633,20.0,M,University Degree,0.96,-0.32,0.42,-0.15,Used Last Year,Never Used,Never Used,CL0
+634,23.0,M,University Degree,0.96,-0.32,1.23,-0.44,Used Last Year,Never Used,Used 5-10 Years,CL0
+635,26.0,M,Master’s Degree,0.96,-0.32,-0.68,1.74,Used Last Year,Never Used,Used 5-10 Years,CL2
+636,36.0,M,Doctorate Degree,0.96,-0.32,1.23,0.17,Used Last Month,Used 2-5 Years,Used 2-5 Years,CL6
+637,39.0,F,University Degree,0.96,-0.32,-0.79,-0.3,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL2
+638,51.0,M,University Degree,0.96,-0.32,-0.68,0.32,Used 1-2 Years,Never Used,Never Used,CL0
+639,36.0,M,Professional Cert.,0.25,-0.32,-0.35,0.17,Used 1-2 Years,Never Used,Never Used,CL0
+640,23.0,M,University Degree,0.96,-0.32,-0.25,-0.58,Used Last Year,Never Used,Never Used,CL0
+641,29.0,F,,0.96,-0.32,-0.25,1.74,Used Last Year,Used >10 Years,Used 5-10 Years,CL3
+642,52.0,F,University Degree,0.96,-0.32,-0.15,-0.7,Used Last Year,Never Used,Never Used,CL0
+643,44.0,F,Master’s Degree,0.96,-0.32,-0.68,0.96,Used Last Year,Used >10 Years,Used >10 Years,CL0
+644,26.0,M,Master’s Degree,0.96,-1.11,-1.05,0.64,Used Last Year,Never Used,Never Used,CL0
+645,29.0,F,Some College,0.96,-0.32,0.22,-0.3,Used Last Year,Used 2-5 Years,Used 2-5 Years,CL0
+646,54.0,F,University Degree,0.96,-0.32,0.04,-0.3,Used Last Year,Never Used,Never Used,CL0
+647,23.0,M,University Degree,0.96,-0.32,-0.47,-0.15,Used Last Year,Never Used,Never Used,CL0
+648,20.0,F,Some College,-0.57,-0.32,-1.44,1.45,Used Last Month,Never Used,Never Used,CL3
+649,38.0,M,Master’s Degree,-0.57,-0.32,1.13,0.17,Used Last Month,Used 5-10 Years,Used Last Month,CL3
+650,33.0,M,University Degree,0.96,-0.32,-0.15,0.81,Used Last Year,Used 5-10 Years,Used 1-2 Years,CL0
+651,52.0,M,Master’s Degree,0.96,-0.32,-0.47,2.13,Used Last Year,Used 5-10 Years,Used Last Month,CL4
+652,26.0,F,Master’s Degree,0.96,-0.32,0.63,0.48,Used Last Year,Never Used,Used Last Year,CL0
+653,22.0,F,Some College,-0.1,-0.32,1.02,1.29,Used Last Year,Used Last Year,Used 2-5 Years,CL4
+654,19.0,F,Some College,-0.57,-0.32,-0.68,0.64,Used Last Month,Never Used,Used Last Month,CL0
+655,39.0,M,,0.96,-0.32,-0.35,0.96,Used Last Year,Never Used,Used Last Year,CL0
+656,25.0,F,Master’s Degree,-0.29,0.11,-0.47,1.74,Used Last Year,Never Used,Used Last Year,CL2
+657,47.0,F,University Degree,0.528405215646941,-0.32,-0.47,-0.58,Used 1-2 Years,Never Used,Never Used,CL0
+658,53.0,F,University Degree,0.96,-0.32,1.13,-1.38,Used Last Year,Used >10 Years,Used Last Month,CL1
+659,20.0,F,Master’s Degree,0.96,-0.32,0.63,0.17,Used Last Year,Never Used,Used Last Month,CL0
+660,33.0,F,Doctorate Degree,0.21,-0.32,-0.79,1.45,Used Last Year,Used 2-5 Years,Used Last Year,CL0
+661,26.0,M,Master’s Degree,0.96,-1.11,-1.33,0.48,Used Last Month,Never Used,Used 2-5 Years,CL0
+662,20.0,M,University Degree,0.96,-0.32,-0.25,-1.09,Used Last Month,Never Used,Used 1-2 Years,CL0
+663,33.0,M,University Degree,0.96,-0.32,0.04,0.17,Used Last Year,Never Used,Used Last Year,CL0
+664,27.0,M,Doctorate Degree,0.96,-0.32,1.23,-1.23,Used Last Month,Used >10 Years,Used Last Year,CL3
+665,24.0,F,University Degree,0.96,-0.32,-0.35,-0.44,Used Last Year,Never Used,Used 5-10 Years,CL0
+666,31.0,M,Doctorate Degree,0.96,-0.32,1.13,-0.44,Used Last Month,Used 5-10 Years,Used 5-10 Years,CL0
+667,23.0,F,,0.96,-0.32,-2.05,-0.3,Used 2-5 Years,Never Used,Never Used,CL0
+668,38.0,F,Some College,0.96,-0.32,0.91,-0.7,Used 1-2 Years,Used 5-10 Years,Used >10 Years,CL6
+669,52.0,F,University Degree,0.96,-0.32,-1.69,2.13,Used Last Year,Never Used,Used >10 Years,CL0
+670,26.0,F,Some College,0.96,-0.32,-0.58,0.96,Used Last Month,Never Used,Used 2-5 Years,CL5
+671,21.0,F,Professional Cert.,0.96,-0.32,-0.35,0.17,Used Last Year,Never Used,Used 2-5 Years,CL0
+672,36.0,F,Professional Cert.,0.96,-0.32,-0.47,0.81,Used 5-10 Years,Used >10 Years,Used >10 Years,CL0
+673,23.0,F,University Degree,0.96,-0.32,-0.25,0.0,Used 5-10 Years,Never Used,Never Used,CL0
+674,23.0,M,Some College,0.96,-0.32,1.23,1.11,Used Last Year,Never Used,Never Used,CL0
+675,24.0,M,Master’s Degree,0.96,-0.5,0.83,-0.7,Used 2-5 Years,Never Used,Never Used,CL3
+676,35.0,F,Professional Cert.,0.96,-0.32,-0.05,-0.3,Used 2-5 Years,Used 5-10 Years,Used >10 Years,CL0
+677,21.0,F,Professional Cert.,0.96,-0.32,0.22,0.0,Used 2-5 Years,Never Used,Never Used,CL0
+678,33.0,F,University Degree,0.96,-0.32,0.52,-0.3,Used Last Month,Used 5-10 Years,Used 5-10 Years,CL0
+679,24.0,F,Some College,0.96,-0.32,2.29,-2.11,Never Used,Never Used,Never Used,CL0
+680,21.0,M,Some College,0.96,-0.32,0.63,-0.3,Used Last Year,Used 1-2 Years,Used 2-5 Years,CL3
+681,53.0,F,Doctorate Degree,0.96,-0.32,0.22,-0.81,Used Last Month,Used Last Month,Used >10 Years,CL3
+682,38.0,F,Some College,0.96,-0.32,-1.33,0.0,Used Last Month,Never Used,Used 5-10 Years,CL3
+683,28.0,F,Master’s Degree,0.96,-0.32,1.37,-1.76,Used Last Month,Never Used,Never Used,CL0
+684,41.0,M,University Degree,0.96,-0.32,0.52,-0.15,Used 2-5 Years,Used 5-10 Years,Used 5-10 Years,CL2
+685,40.0,M,Professional Cert.,0.96,-0.32,0.91,-0.7,Used 1-2 Years,Never Used,Never Used,CL6
+686,32.0,F,University Degree,-0.1,-0.32,-0.35,0.17,Used Last Month,Used Last Year,Used 2-5 Years,CL5
+687,20.0,M,Some College,0.25,-0.32,1.6,0.96,Used Last Year,Never Used,Never Used,CL0
+688,54.0,M,,-0.1,-0.32,-0.92,0.64,Used 1-2 Years,Used >10 Years,Never Used,CL2
+689,40.0,F,Some College,-0.57,-0.32,1.02,1.11,Used 5-10 Years,Used 5-10 Years,Used >10 Years,CL3
+690,58.0,M,Master’s Degree,0.96,-0.32,0.83,-0.7,Used Last Month,Used >10 Years,Never Used,CL1
+691,61.0,F,Some College,0.96,-0.32,0.42,-0.7,Used Last Month,Never Used,Never Used,CL2
+692,27.0,M,University Degree,0.96,-0.32,-0.15,-0.15,Used 1-2 Years,Never Used,Never Used,CL0
+693,49.0,M,Master’s Degree,0.96,-0.32,0.22,-0.7,Used Last Month,Never Used,Never Used,CL0
+694,42.0,F,Master’s Degree,0.96,-0.32,-1.19,-0.3,Used Last Month,Used >10 Years,Never Used,CL0
+695,41.0,F,Professional Cert.,0.96,-0.32,-0.92,-0.58,Used Last Year,Used >10 Years,Used >10 Years,CL0
+696,35.0,M,Master’s Degree,0.96,-0.32,-0.15,-0.44,Used Last Month,Never Used,Never Used,CL0
+697,62.0,F,University Degree,0.96,-0.32,-0.79,0.32,Used Last Year,Used >10 Years,Used >10 Years,CL0
+698,53.0,M,University Degree,0.25,0.11,-1.69,-0.3,Used 1-2 Years,Never Used,Never Used,CL0
+699,44.0,F,University Degree,-0.57,-0.32,-0.05,-0.95,Used Last Month,Used Last Year,Never Used,CL3
+700,60.0,F,Some College,0.96,-0.32,-0.15,-1.09,Used Last Month,Used 5-10 Years,Used 5-10 Years,CL0
+701,39.0,M,Some College,-0.29,-0.32,0.91,0.17,Used Last Year,Used 5-10 Years,Never Used,CL2
+702,50.0,F,,0.96,-0.32,-1.05,1.11,Used >10 Years,Used >10 Years,Used >10 Years,CL2
+703,35.0,M,University Degree,0.96,-0.32,-0.35,0.64,Used 2-5 Years,Used >10 Years,Used 5-10 Years,CL2
+704,57.0,F,University Degree,0.96,-0.32,-1.44,0.81,Used Last Month,Never Used,Never Used,CL0
+705,43.0,F,Some College,-0.57,-0.32,-0.79,-0.3,Used Last Month,Used >10 Years,Used >10 Years,CL1
+706,23.0,F,Some College,0.96,-0.32,-1.44,0.32,Used 2-5 Years,Used 5-10 Years,Used 5-10 Years,CL2
+707,21.0,M,University Degree,0.96,-0.32,-0.15,-0.95,Used 1-2 Years,Never Used,Never Used,CL0
+708,31.0,F,University Degree,0.96,-0.32,-0.05,1.94,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL0
+709,20.0,F,Some College,0.96,-0.32,0.42,-0.58,Used Last Year,Never Used,Used 2-5 Years,CL0
+710,19.0,F,Professional Cert.,0.96,-0.32,-0.92,-0.3,Used 2-5 Years,Never Used,Never Used,CL0
+711,24.0,F,University Degree,0.96,-0.32,0.91,0.17,Used Last Year,Used 5-10 Years,Used 2-5 Years,CL2
+712,23.0,F,Some College,-0.57,-0.32,-0.58,-0.15,Used 2-5 Years,Never Used,Never Used,CL6
+713,34.0,M,Master’s Degree,0.96,-0.32,0.52,0.32,Used 1-2 Years,Used 2-5 Years,Never Used,CL2
+714,18.0,F,University Degree,-0.57,-0.32,0.52,0.81,Used Last Month,Used Last Year,Used 5-10 Years,CL0
+715,21.0,F,Professional Cert.,0.96,-0.32,0.74,1.11,Used Last Year,Never Used,Never Used,CL0
+716,18.0,M,Some College,-0.57,-0.32,0.63,0.48,Used Last Year,Used 2-5 Years,Never Used,CL6
+717,22.0,F,Some College,0.96,-0.32,-0.05,-1.51,Used 2-5 Years,Never Used,Never Used,CL3
+718,37.0,F,University Degree,-0.57,-0.32,-0.79,-0.81,Used Last Year,Used >10 Years,Never Used,CL4
+719,22.0,F,,-0.29,-0.32,-0.05,-1.23,Used Last Year,Used 5-10 Years,Never Used,CL0
+720,62.0,F,University Degree,0.96,-0.32,-0.35,-0.95,Used Last Year,Used >10 Years,Used 5-10 Years,CL0
+721,43.0,F,Some College,0.96,-0.32,1.23,0.81,Used Last Month,Used 1-2 Years,Used 2-5 Years,CL5
+722,43.0,M,Professional Cert.,0.96,-0.32,1.6,-0.7,Used 1-2 Years,Used 5-10 Years,Used >10 Years,CL0
+723,59.0,F,Professional Cert.,0.96,-0.32,-0.05,-0.3,Used >10 Years,Used >10 Years,Never Used,CL1
+724,32.0,M,University Degree,0.96,-0.32,-0.92,1.45,Used Last Year,Never Used,Never Used,CL0
+725,44.0,M,Some College,0.96,-0.32,1.13,-0.58,Used 1-2 Years,Used 2-5 Years,Never Used,CL1
+726,26.0,M,Master’s Degree,0.96,-0.32,0.31,0.64,Used Last Year,Used 5-10 Years,Used 2-5 Years,CL3
+727,20.0,F,Professional Cert.,0.96,-0.32,2.29,-0.95,Used Last Month,Never Used,Used 2-5 Years,CL0
+728,27.0,M,Master’s Degree,0.96,-0.22,0.31,0.64,Used Last Year,Never Used,Never Used,CL0
+729,23.0,F,Some College,0.25,-0.32,-1.44,0.17,Used 1-2 Years,Never Used,Never Used,CL0
+730,34.0,M,,-0.1,-0.32,-0.58,0.32,Used Last Month,Used 5-10 Years,Used 5-10 Years,CL2
+731,42.0,M,University Degree,0.96,-0.32,0.74,0.0,Used Last Year,Used >10 Years,Used >10 Years,CL0
+732,20.0,F,Some College,0.96,-0.32,-0.79,1.29,Used 1-2 Years,Used 1-2 Years,Used 5-10 Years,CL0
+733,22.0,M,University Degree,0.96,-0.32,1.23,0.64,Used Last Month,Never Used,Used 5-10 Years,CL0
+734,43.0,F,,0.96,0.13,0.63,0.17,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL3
+735,19.0,F,Some College,0.96,-0.32,0.74,1.11,Used Last Month,Used 2-5 Years,Used 2-5 Years,CL3
+736,26.0,M,University Degree,0.96,-0.32,0.22,2.13,Used 1-2 Years,Used 2-5 Years,Used 5-10 Years,CL3
+737,33.0,F,University Degree,0.96,-0.32,-0.47,-1.76,Used Last Month,Used 5-10 Years,Used Last Year,CL0
+738,34.0,F,University Degree,0.96,-0.32,-1.05,1.74,Used Last Year,Used 5-10 Years,Never Used,CL0
+739,21.0,M,University Degree,0.528405215646941,-0.32,-0.47,1.74,Used 1-2 Years,Never Used,Never Used,CL3
+740,29.0,F,Master’s Degree,-0.29,-0.32,-0.05,-1.38,Used Last Month,Used 5-10 Years,Never Used,CL0
+741,44.0,F,Some College,0.96,-0.32,-1.33,0.17,Used Last Year,Used 2-5 Years,Used 5-10 Years,CL3
+743,49.0,M,Master’s Degree,0.96,-0.32,0.83,-0.3,Used Last Month,Used >10 Years,Never Used,CL1
+744,40.0,M,University Degree,0.96,-0.32,1.74,0.05429718875502009,Used Last Year,Never Used,Used >10 Years,CL2
+745,31.0,F,,0.96,-0.32,-0.35,0.0,Used >10 Years,Never Used,Never Used,CL0
+746,52.0,F,Some College,0.96,-0.32,-0.92,0.17,Used Last Year,Never Used,Never Used,CL0
+747,25.0,M,,0.96,-0.32,0.74,0.32,Used Last Month,Never Used,Never Used,CL0
+748,25.0,M,Master’s Degree,0.96,-0.32,-0.05,0.48,Used 1-2 Years,Never Used,Used 5-10 Years,CL2
+749,41.0,M,,0.96,-0.32,0.42,-0.58,Used 5-10 Years,Used Last Month,Used 5-10 Years,CL3
+750,43.0,M,Doctorate Degree,0.96,-0.32,-1.69,0.96,Used Last Year,Never Used,Never Used,CL0
+751,37.0,F,Master’s Degree,0.96,-0.32,-0.15,0.0,Used Last Year,Never Used,Used >10 Years,CL1
+752,29.0,M,Professional Cert.,0.96,-0.32,-2.34,1.45,Used Last Month,Used 5-10 Years,Never Used,CL0
+753,27.0,F,Some College,-0.29,-0.32,1.6,-0.3,Used Last Month,Used 2-5 Years,Never Used,CL5
+754,28.0,M,Master’s Degree,0.96,-0.32,0.42,1.11,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL0
+755,28.0,F,Doctorate Degree,0.96,-0.32,-0.92,0.48,Used 1-2 Years,Used >10 Years,Used >10 Years,CL2
+756,21.0,F,Some College,-0.57,-0.32,-1.44,1.58,Used Last Year,Used 1-2 Years,Used 2-5 Years,CL3
+757,24.0,M,Master’s Degree,0.96,0.13,0.63,0.32,Used Last Year,Never Used,Used 5-10 Years,CL0
+758,22.0,M,Some College,0.21,-0.32,2.29,-0.44,Used Last Month,Used Last Month,Never Used,CL0
+759,22.0,F,Some College,-0.57,-0.32,0.42,0.64,Used 2-5 Years,Used 2-5 Years,Never Used,CL5
+760,19.0,F,Doctorate Degree,0.96,-0.32,-2.76,1.74,Used Last Month,Never Used,Used 5-10 Years,CL2
+761,34.0,F,University Degree,0.25,-0.32,0.04,-0.95,Used Last Month,Used 5-10 Years,Used 5-10 Years,CL2
+762,19.0,F,Some College,-0.57,-0.32,1.72,0.32,Used Last Month,Never Used,Never Used,CL0
+763,31.0,M,University Degree,-0.1,-0.32,-1.33,0.81,Used Last Month,Used Last Month,Used 5-10 Years,CL4
+764,21.0,M,University Degree,0.96,-0.32,1.13,0.81,Used Last Year,Never Used,Never Used,CL2
+765,19.0,F,,0.96,-0.32,0.42,-0.95,Used Last Year,Never Used,Used 5-10 Years,CL0
+766,18.0,F,Some College,-0.57,-0.32,0.63,0.17,Used 1-2 Years,Used 5-10 Years,Used 2-5 Years,CL2
+767,23.0,F,Some College,-0.57,-0.32,1.02,-0.81,Used Last Month,Used 2-5 Years,Never Used,CL6
+768,30.0,F,Master’s Degree,-0.47,-0.32,0.83,-0.7,Used Last Month,Used 5-10 Years,Used 2-5 Years,CL6
+769,18.0,M,Professional Cert.,-0.57,0.11,-0.35,0.64,Used 1-2 Years,Used Last Month,Never Used,CL6
+770,29.0,F,University Degree,-0.1,-0.32,1.02,0.17,Used Last Month,Used 5-10 Years,Used 5-10 Years,CL3
+771,23.0,F,Some College,-0.57,-0.32,0.63,-1.63,Used 2-5 Years,Used 2-5 Years,Never Used,CL0
+772,18.0,M,Master’s Degree,0.96,-0.5,0.52,-1.38,Never Used,Never Used,Never Used,CL0
+773,51.0,F,University Degree,0.96,-0.32,1.23,-1.38,Used Last Month,Used Last Year,Used 2-5 Years,CL3
+774,47.0,M,Professional Cert.,0.25,-0.32,1.02,-1.23,Used >10 Years,Used >10 Years,Never Used,CL6
+775,21.0,F,,-0.29,-0.32,-1.19,-0.44,Used 1-2 Years,Used 5-10 Years,Never Used,CL2
+776,22.0,M,Some College,-0.29,-0.32,-1.69,0.48,Used 1-2 Years,Never Used,Never Used,CL0
+777,30.0,F,Some College,-0.57,-0.32,0.14,-0.44,Used 2-5 Years,Used Last Month,Never Used,CL6
+778,19.0,F,Some College,-0.57,0.13,0.52,0.64,Used Last Month,Used 1-2 Years,Never Used,CL6
+779,20.0,F,Some College,0.25,-0.32,1.98,0.0,Used 1-2 Years,Used Last Month,Never Used,CL5
+780,47.0,F,,0.96,-0.32,-2.22,1.11,Used Last Year,Used 2-5 Years,Used >10 Years,CL0
+781,22.0,M,Professional Cert.,-0.57,-0.32,1.02,-2.11,Used 1-2 Years,Used 2-5 Years,Never Used,CL0
+782,39.0,F,Professional Cert.,-0.57,-0.32,1.02,-0.95,Used Last Month,Never Used,Never Used,CL5
+783,24.0,F,Some College,-0.57,0.11,1.13,-1.23,Used 2-5 Years,Used 2-5 Years,Never Used,CL2
+784,19.0,M,Some College,-0.57,-0.32,0.83,-0.44,Used Last Month,Used 2-5 Years,Never Used,CL3
+785,19.0,M,Some College,-0.57,-0.32,-0.25,0.48,Used Last Month,Used Last Year,Never Used,CL4
+786,22.0,F,Master’s Degree,-0.57,-0.32,1.37,-0.81,Used 1-2 Years,Used 5-10 Years,Never Used,CL3
+787,20.0,F,Professional Cert.,-0.29,-0.32,-0.58,0.0,Used 2-5 Years,Used 2-5 Years,Used 5-10 Years,CL3
+788,35.0,F,Professional Cert.,-0.29,-0.32,0.83,-0.58,Used Last Month,Used >10 Years,Used 5-10 Years,CL1
+789,23.0,F,Professional Cert.,0.96,-0.32,-1.69,1.29,Used Last Year,Never Used,Used 5-10 Years,CL0
+790,18.0,F,Some College,0.96,-0.32,-2.05,0.17,Used 2-5 Years,Never Used,Never Used,CL0
+791,22.0,F,University Degree,-0.1,-0.32,-0.15,-0.44,Used Last Year,Used 2-5 Years,Used Last Year,CL3
+792,23.0,F,Some College,-0.57,-0.32,1.74,0.05429718875502009,Used Last Year,Used 2-5 Years,Used 1-2 Years,CL3
+793,21.0,F,Some College,-0.29,-0.32,0.83,0.64,Used Last Year,Used Last Year,Used 2-5 Years,CL3
+794,30.0,F,Some College,0.96,-0.32,0.04,2.13,Used Last Year,Used 5-10 Years,Used 2-5 Years,CL0
+795,28.0,F,University Degree,0.96,-0.32,-0.05,-0.58,Used Last Month,Used >10 Years,Used 5-10 Years,CL0
+796,18.0,F,Some College,-0.57,-0.32,1.13,-0.58,Used 2-5 Years,Used 2-5 Years,Never Used,CL0
+797,23.0,F,Some College,-0.57,-0.32,0.42,-0.95,Used 2-5 Years,Used Last Month,Never Used,CL5
+798,23.0,M,University Degree,0.96,-0.32,-0.58,0.81,Used Last Year,Used 2-5 Years,Used 5-10 Years,CL0
+799,34.0,M,Some College,-0.57,-0.32,0.14,1.11,Used Last Month,Used 2-5 Years,Never Used,CL3
+800,39.0,M,Some College,0.96,-0.32,1.23,0.64,Used Last Year,Used 5-10 Years,Used >10 Years,CL1
+801,23.0,F,Some College,0.25,-0.32,-1.19,0.17,Used 1-2 Years,Used 2-5 Years,Never Used,CL3
+802,26.0,F,Some College,-0.57,-0.32,0.52,-0.44,Used 2-5 Years,Used Last Year,Used 5-10 Years,CL2
+803,23.0,F,,0.21,-0.32,-0.47,0.32,Used Last Year,Used 1-2 Years,Never Used,CL3
+804,50.0,M,University Degree,-0.57,-0.32,0.14,-0.95,Used Last Month,Used Last Month,Used >10 Years,CL0
+805,32.0,F,Some College,-0.57,-0.32,0.52,-1.09,Used Last Year,Used 5-10 Years,Never Used,CL3
+806,18.0,M,University Degree,0.25,-0.32,1.98,-1.51,Used Last Month,Used 1-2 Years,Used 2-5 Years,CL6
+807,31.0,F,Some College,-0.57,-0.32,-0.25,0.17,Used 5-10 Years,Used Last Month,Never Used,CL6
+808,18.0,F,,-0.1,-0.32,-0.35,0.81,Used Last Year,Never Used,Never Used,CL0
+809,22.0,M,Some College,-0.57,-0.32,1.02,0.81,Used Last Month,Never Used,Never Used,CL5
+810,22.0,F,University Degree,-0.57,-0.32,0.42,-1.92,Used 2-5 Years,Used 2-5 Years,Never Used,CL3
+811,24.0,F,Professional Cert.,0.96,-0.32,-1.69,-0.81,Used Last Year,Never Used,Never Used,CL0
+812,24.0,F,,-0.57,-0.32,-1.69,0.81,Used 2-5 Years,Never Used,Never Used,CL0
+813,54.0,M,University Degree,-0.57,-0.32,1.23,1.74,Used Last Month,Used 1-2 Years,Used >10 Years,CL2
+814,20.0,F,Some College,-0.57,-0.32,1.13,-0.7,Used 1-2 Years,Never Used,Never Used,CL4
+815,31.0,F,University Degree,-0.57,-0.32,0.52,-0.58,Used 2-5 Years,Used 5-10 Years,Never Used,CL2
+816,18.0,F,Some College,0.96,-0.32,-0.68,0.0,Used Last Year,Used 2-5 Years,Used 1-2 Years,CL0
+817,18.0,F,Some College,0.25,-0.32,2.46,0.32,Used Last Year,Used 5-10 Years,Never Used,CL6
+818,23.0,M,Some College,-0.57,-0.32,0.14,-0.95,Used 2-5 Years,Never Used,Never Used,CL0
+819,50.0,F,Doctorate Degree,-0.1,-0.32,0.63,0.17,Used 1-2 Years,Used 2-5 Years,Used 5-10 Years,CL4
+820,30.0,M,Master’s Degree,0.96,-0.32,1.6,-0.81,Used Last Year,Used 5-10 Years,Used 2-5 Years,CL5
+821,23.0,F,Some College,-0.1,-0.5,-0.68,1.74,Used 2-5 Years,Never Used,Never Used,CL0
+822,19.0,M,University Degree,-0.57,-0.32,-0.35,0.32,Used Last Year,Used 1-2 Years,Never Used,CL0
+823,21.0,F,Some College,0.96,-0.32,-0.05,1.11,Used Last Month,Never Used,Never Used,CL0
+824,22.0,F,Some College,-0.57,-0.32,-0.05,0.17,Used 1-2 Years,Never Used,Never Used,CL0
+825,18.0,F,Some College,-0.29,1.91,0.04,-0.3,Used Last Year,Never Used,Never Used,CL0
+826,23.0,F,University Degree,-0.1,-0.32,0.63,-2.11,Used Last Year,Used Last Month,Never Used,CL5
+827,18.0,F,University Degree,-0.57,-0.32,0.52,0.64,Used Last Month,Used 5-10 Years,Never Used,CL4
+828,18.0,F,Some College,-0.57,-0.32,0.14,1.45,Used 2-5 Years,Used Last Month,Never Used,CL4
+829,19.0,F,University Degree,-0.29,-0.32,-0.92,0.48,Used Last Month,Used 5-10 Years,Never Used,CL4
+830,29.0,M,Doctorate Degree,-0.1,-0.32,1.72,0.48,Used Last Year,Used 2-5 Years,Never Used,CL0
+831,20.0,F,Some College,-0.57,-0.32,0.14,0.64,Used 1-2 Years,Used 2-5 Years,Never Used,CL0
+832,24.0,F,Professional Cert.,0.96,-0.32,0.31,-0.44,Used Last Month,Used Last Month,Used 5-10 Years,CL0
+833,20.0,F,Some College,-0.57,-0.32,0.91,-0.81,Used 1-2 Years,Never Used,Never Used,CL0
+834,32.0,M,Master’s Degree,-0.57,-0.32,0.14,-0.95,Used Last Month,Used 2-5 Years,Used >10 Years,CL5
+835,50.0,M,Doctorate Degree,-0.57,-0.32,0.04,0.17,Used Last Month,Used Last Month,Used >10 Years,CL4
+836,33.0,M,Master’s Degree,-0.57,-0.32,0.83,-0.7,Used Last Year,Never Used,Never Used,CL0
+837,22.0,F,University Degree,-0.57,-0.32,0.52,-0.95,Used Last Month,Used 2-5 Years,Never Used,CL2
+838,19.0,F,University Degree,-0.1,-0.32,-1.69,0.17,Used 1-2 Years,Never Used,Used 1-2 Years,CL0
+839,51.0,F,Master’s Degree,-0.57,-0.32,-0.35,0.32,Used 2-5 Years,Used Last Month,Used 2-5 Years,CL2
+840,19.0,F,Some College,-0.1,-0.32,-1.69,1.74,Used 1-2 Years,Never Used,Never Used,CL0
+841,22.0,F,,0.96,-0.32,0.74,0.0,Used Last Month,Never Used,Never Used,CL0
+842,33.0,F,University Degree,-0.57,-0.32,0.22,-1.38,Used Last Year,Used Last Month,Used 5-10 Years,CL5
+843,18.0,F,Some College,-0.57,-0.32,-0.58,-0.15,Used 1-2 Years,Used 1-2 Years,Never Used,CL0
+844,20.0,F,Some College,-0.57,-0.32,-0.68,0.0,Used 2-5 Years,Used 5-10 Years,Never Used,CL3
+845,29.0,M,Some College,-0.57,-0.32,0.52,-0.44,Used Last Month,Used >10 Years,Never Used,CL4
+846,20.0,M,Some College,-0.57,-0.32,0.31,0.81,Used Last Year,Never Used,Never Used,CL2
+847,37.0,F,Some College,-0.57,-0.32,0.91,-1.63,Used Last Month,Never Used,Never Used,CL5
+848,20.0,M,Professional Cert.,0.25,-0.32,0.52,-0.44,Used 5-10 Years,Used Last Month,Never Used,CL0
+849,30.0,F,University Degree,-0.57,-0.32,0.63,-0.44,Used 2-5 Years,Used Last Month,Used 5-10 Years,CL6
+850,22.0,F,,-0.57,-0.32,-1.69,0.05429718875502009,Used Last Month,Used Last Month,Never Used,CL6
+851,63.0,F,Master’s Degree,-0.57,-0.32,-1.69,0.0,Used 1-2 Years,Never Used,Never Used,CL0
+852,22.0,F,Master’s Degree,-0.29,-0.32,0.42,-0.95,Used Last Year,Never Used,Used 5-10 Years,CL0
+853,19.0,F,Some College,-0.57,-0.32,-0.79,1.45,Never Used,Used 5-10 Years,Never Used,CL0
+854,34.0,F,University Degree,-0.57,-0.32,0.74,0.17,Used 5-10 Years,Used 5-10 Years,Never Used,CL2
+855,21.0,F,Some College,-0.57,-0.32,0.04,0.0,Used Last Year,Used Last Year,Never Used,CL6
+856,22.0,M,Some College,-0.57,-0.32,-0.35,0.17,Used Last Year,Never Used,Never Used,CL0
+857,22.0,F,,0.25,-0.22,0.52,0.81,Used Last Year,Used 1-2 Years,Used 5-10 Years,CL3
+858,27.0,F,Some College,0.96,-0.32,-1.05,0.48,Used 5-10 Years,Used 2-5 Years,Used 5-10 Years,CL0
+859,19.0,F,Professional Cert.,-0.57,0.13,0.52,1.29,Used Last Year,Used Last Year,Never Used,CL3
+860,31.0,F,,0.25,-0.32,1.37,-0.81,Used 1-2 Years,Used Last Month,Used 2-5 Years,CL6
+861,20.0,F,Some College,-0.57,-0.32,-1.05,2.32,Used Last Year,Used Last Year,Never Used,CL4
+862,24.0,M,Some College,-0.29,-0.5,1.02,-1.23,Used 2-5 Years,Used Last Month,Never Used,CL6
+863,29.0,F,Some College,-0.29,-0.32,0.63,0.81,Used Last Month,Never Used,Never Used,CL0
+864,21.0,F,University Degree,0.96,-0.32,0.04,-0.15,Used Last Month,Used 5-10 Years,Used 5-10 Years,CL2
+865,19.0,F,Some College,0.25,-0.32,-1.87,1.29,Never Used,Never Used,Never Used,CL0
+866,24.0,F,Some College,0.21,-0.32,1.6,-0.58,Used Last Month,Used >10 Years,Used 1-2 Years,CL4
+867,22.0,M,Some College,-0.57,-0.32,-0.15,1.11,Used Last Year,Never Used,Never Used,CL0
+868,19.0,F,Some College,0.25,-0.32,0.42,-1.09,Used Last Year,Used Last Year,Never Used,CL5
+869,20.0,M,Some College,-0.57,-0.32,-0.05,1.29,Used Last Month,Used 2-5 Years,Never Used,CL0
+870,22.0,M,Some College,-0.57,-0.32,-1.33,0.32,Used Last Year,Used 2-5 Years,Never Used,CL0
+871,46.0,F,Professional Cert.,0.96,-0.32,1.6,-0.7,Used 2-5 Years,Used >10 Years,Used 5-10 Years,CL2
+872,30.0,F,University Degree,-0.57,-0.32,0.91,-0.81,Used Last Month,Used 5-10 Years,Used 5-10 Years,CL2
+873,24.0,F,Master’s Degree,-0.57,-0.32,0.22,1.58,Used Last Year,Used 1-2 Years,Never Used,CL5
+874,34.0,M,Master’s Degree,-0.57,-0.32,-0.68,-0.44,Used Last Year,Never Used,Never Used,CL2
+875,21.0,M,Some College,0.96,-0.32,1.49,-1.76,Used 1-2 Years,Never Used,Never Used,CL2
+876,27.0,M,Master’s Degree,-0.57,-0.32,0.22,-1.09,Used Last Year,Used Last Month,Used 5-10 Years,CL5
+877,22.0,M,Some College,-0.57,-0.32,0.74,0.32,Used Last Year,Used Last Month,Never Used,CL4
+878,40.0,F,Professional Cert.,-0.57,-0.32,1.23,-2.11,Used 2-5 Years,Used Last Year,Used >10 Years,CL2
+879,28.0,F,Some College,-0.1,-0.32,-0.92,0.48,Used Last Year,Used 2-5 Years,Never Used,CL0
+880,20.0,M,University Degree,-0.57,-0.32,-0.58,1.45,Used Last Year,Used 2-5 Years,Never Used,CL0
+881,30.0,F,Master’s Degree,-0.57,-0.32,1.23,0.0,Used Last Month,Used Last Month,Used 5-10 Years,CL6
+882,18.0,M,,-0.57,-0.32,0.63,-0.15,Used Last Year,Used 1-2 Years,Never Used,CL4
+883,43.0,F,Some College,-0.57,-0.32,1.6,-1.09,Used 1-2 Years,Used Last Month,Used >10 Years,CL2
+884,27.0,M,Some College,-0.57,-0.32,-1.19,1.45,Used 5-10 Years,Used 5-10 Years,Never Used,CL2
+885,23.0,F,Some College,-0.57,-0.32,0.04,1.29,Used Last Month,Used 2-5 Years,Never Used,CL4
+886,21.0,F,Some College,-0.57,0.11,1.49,0.0,Used Last Year,Used Last Month,Used 1-2 Years,CL6
+887,34.0,F,Some College,-0.29,-0.32,1.02,-2.73,Used 1-2 Years,Used 5-10 Years,Never Used,CL5
+888,19.0,F,University Degree,0.96,-0.32,0.42,-0.44,Used 1-2 Years,Never Used,Used 2-5 Years,CL0
+889,23.0,F,University Degree,0.96,-0.32,-0.47,2.57,Used Last Month,Used 2-5 Years,Used 5-10 Years,CL4
+890,18.0,M,Some College,-0.57,-0.32,-1.05,1.45,Used Last Year,Never Used,Never Used,CL0
+891,24.0,M,Some College,-0.57,-0.32,0.42,0.81,Used Last Year,Never Used,Never Used,CL0
+892,21.0,F,Some College,-0.57,0.11,0.14,0.96,Used 1-2 Years,Used 2-5 Years,Used 2-5 Years,CL3
+893,34.0,F,Some College,0.21,-0.32,-1.55,2.13,Used Last Year,Used Last Month,Used 5-10 Years,CL6
+894,32.0,F,Some College,-0.29,-0.32,0.14,-0.44,Used 2-5 Years,Used 2-5 Years,Never Used,CL0
+895,34.0,F,Some College,-0.57,-0.32,1.02,-1.51,Used 1-2 Years,Used 1-2 Years,Used 5-10 Years,CL4
+896,25.0,M,,0.96,-0.32,3.27,-2.11,Used Last Month,Used 2-5 Years,Used 5-10 Years,CL2
+897,19.0,F,Some College,-0.29,-0.32,-1.44,-1.76,Used Last Year,Used 2-5 Years,Never Used,CL3
+898,19.0,M,Professional Cert.,0.96,-0.32,-1.87,-0.3,Used 1-2 Years,Used 5-10 Years,Used 2-5 Years,CL0
+899,27.0,F,Master’s Degree,-0.57,-0.32,-0.79,1.11,Used Last Year,Used 1-2 Years,Used 2-5 Years,CL6
+900,31.0,F,University Degree,-0.57,-0.32,1.84,-0.3,Used Last Month,Never Used,Never Used,CL0
+901,18.0,M,Some College,-0.57,-0.32,1.84,-0.95,Used Last Month,Never Used,Never Used,CL0
+902,23.0,F,University Degree,0.25,-0.32,-2.52,1.74,Used Last Year,Used Last Month,Used 1-2 Years,CL6
+903,24.0,F,Some College,0.96,-1.11,0.04,-0.95,Used Last Year,Never Used,Never Used,CL2
+904,30.0,M,Master’s Degree,-0.57,-0.32,0.22,-0.7,Used Last Month,Used 5-10 Years,Never Used,CL2
+905,21.0,F,,-0.57,-0.32,-0.05,0.96,Used 1-2 Years,Used Last Month,Used 1-2 Years,CL4
+906,38.0,M,University Degree,-0.57,-0.32,1.02,-0.3,Used Last Month,Never Used,Never Used,CL0
+907,18.0,F,Some College,-0.57,-0.32,1.37,-0.15,Used 5-10 Years,Used 2-5 Years,Never Used,CL6
+908,25.0,F,Professional Cert.,-0.29,-0.32,0.42,0.32,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL0
+909,39.0,F,University Degree,-0.1,-0.32,-1.33,0.32,Used 1-2 Years,Used Last Year,Used 5-10 Years,CL0
+910,23.0,F,Some College,-0.57,0.11,-0.25,0.0,Used Last Year,Used 1-2 Years,Never Used,CL4
+911,22.0,F,University Degree,-0.57,-0.32,0.14,0.64,Used Last Year,Used Last Year,Used 2-5 Years,CL6
+912,29.0,M,Some College,-0.57,-0.32,1.37,0.48,Used Last Month,Never Used,Never Used,CL6
+913,22.0,M,Some College,-0.57,-0.32,2.13,-2.73,Used 1-2 Years,Used 1-2 Years,Never Used,CL4
+914,22.0,F,Some College,-0.57,-0.32,0.74,-1.38,Used 1-2 Years,Never Used,Never Used,CL2
+915,39.0,F,University Degree,-0.57,-0.32,0.31,-1.51,Used 2-5 Years,Never Used,Never Used,CL6
+916,24.0,M,Some College,-0.57,-0.32,-1.19,2.32,Used Last Year,Never Used,Never Used,CL0
+917,30.0,M,,-0.57,-0.32,2.29,-2.54,Used Last Year,Used 1-2 Years,Never Used,CL5
+918,20.0,F,,-0.57,-0.22,0.22,0.0,Used Last Month,Used Last Month,Never Used,CL4
+919,28.0,F,,-0.57,-0.32,0.42,-0.15,Used 1-2 Years,Used 2-5 Years,Never Used,CL3
+920,19.0,M,Some College,-0.57,-0.32,1.72,-1.63,Used 2-5 Years,Never Used,Never Used,CL0
+921,22.0,F,,0.25,-0.32,0.22,1.45,Used Last Month,Used 1-2 Years,Used 5-10 Years,CL3
+922,40.0,F,Master’s Degree,0.96,-0.32,-0.25,-0.3,Used Last Year,Never Used,Never Used,CL5
+923,24.0,F,Some College,-0.29,-0.32,-1.19,0.48,Used Last Month,Used 1-2 Years,Never Used,CL2
+924,22.0,F,,-0.1,-0.32,0.14,-0.3,Used 2-5 Years,Used 1-2 Years,Never Used,CL2
+925,20.0,F,Some College,-0.57,-0.32,-1.19,-1.38,Used 2-5 Years,Never Used,Never Used,CL0
+926,29.0,F,,-0.57,-0.32,1.23,-1.23,Used 2-5 Years,Never Used,Never Used,CL3
+927,20.0,F,,-0.57,-0.32,1.02,-1.51,Used 2-5 Years,Used 2-5 Years,Never Used,CL3
+928,23.0,F,Professional Cert.,-0.57,-0.32,-0.79,1.29,Used Last Year,Used 5-10 Years,Never Used,CL0
+929,28.0,F,Some College,-0.57,-0.32,0.22,-1.23,Used Last Year,Never Used,Never Used,CL3
+930,27.0,F,Some College,-0.57,-0.32,-0.58,1.45,Used 1-2 Years,Used >10 Years,Never Used,CL3
+931,22.0,M,Some College,0.96,0.11,-0.25,0.96,Used 1-2 Years,Used Last Year,Used 1-2 Years,CL3
+932,39.0,F,,0.96,-0.32,-0.68,-0.7,Used 2-5 Years,Used 5-10 Years,Used 2-5 Years,CL0
+933,27.0,M,University Degree,-0.1,-0.32,0.74,-0.7,Used 1-2 Years,Used 5-10 Years,Never Used,CL1
+934,23.0,M,,-0.57,-0.32,1.13,-1.92,Used 2-5 Years,Used 5-10 Years,Never Used,CL6
+935,22.0,M,University Degree,0.96,-0.32,-0.25,0.0,Used Last Year,Never Used,Never Used,CL0
+936,19.0,M,Some College,-0.57,-0.32,-1.33,1.11,Used Last Year,Used 2-5 Years,Used 2-5 Years,CL4
+937,23.0,M,Some College,-0.57,-0.32,2.29,-0.7,Used 1-2 Years,Never Used,Never Used,CL0
+938,20.0,F,Professional Cert.,0.96,-0.32,0.42,1.29,Used 2-5 Years,Used Last Year,Used 5-10 Years,CL5
+939,18.0,F,Some College,-0.29,-0.32,-0.05,0.32,Used Last Month,Never Used,Never Used,CL0
+940,18.0,M,University Degree,0.96,-0.32,0.31,0.32,Used Last Year,Never Used,Used 5-10 Years,CL0
+941,21.0,F,Some College,-0.29,-0.32,0.42,-0.44,Used Last Month,Never Used,Never Used,CL0
+942,27.0,M,,-0.29,-0.32,0.91,1.29,Used Last Year,Used 2-5 Years,Used 1-2 Years,CL0
+943,29.0,F,Professional Cert.,-0.57,-0.32,-0.47,2.32,Used 1-2 Years,Used 5-10 Years,Never Used,CL3
+944,20.0,M,Some College,-0.57,0.13,1.6,-0.81,Used 2-5 Years,Used 2-5 Years,Never Used,CL6
+945,27.0,M,Master’s Degree,-0.57,-0.32,1.02,-0.3,Used 2-5 Years,Used 5-10 Years,Never Used,CL6
+946,18.0,M,Some College,-0.57,-0.32,-0.35,-1.09,Used 1-2 Years,Never Used,Never Used,CL0
+947,24.0,F,,-0.57,-0.32,-0.68,-0.3,Used 1-2 Years,Used Last Month,Never Used,CL3
+948,32.0,F,Professional Cert.,0.96,-0.32,2.13,-1.38,Used Last Month,Used 5-10 Years,Used 2-5 Years,CL6
+949,32.0,M,,0.25,-0.32,0.42,0.0,Used 5-10 Years,Used 5-10 Years,Never Used,CL5
+950,42.0,F,Professional Cert.,-0.57,-0.32,1.6,-1.76,Used Last Year,Used >10 Years,Never Used,CL1
+951,22.0,M,University Degree,-0.57,-0.32,0.63,0.0,Used Last Month,Used 5-10 Years,Never Used,CL3
+952,20.0,M,Some College,-0.57,-0.32,-1.19,0.32,Used 2-5 Years,Used 2-5 Years,Never Used,CL0
+953,19.0,F,Some College,-0.57,-0.32,0.42,0.17,Used Last Year,Used Last Year,Never Used,CL3
+954,33.0,M,University Degree,0.96,-0.32,1.02,-0.95,Used Last Year,Never Used,Never Used,CL0
+955,22.0,F,Some College,-0.29,-0.32,1.37,-0.81,Never Used,Never Used,Never Used,CL0
+956,21.0,F,Professional Cert.,-0.57,-0.32,1.84,-0.58,Used 1-2 Years,Used Last Year,Used 5-10 Years,CL4
+957,50.0,F,University Degree,-0.57,-0.32,-1.19,-0.58,Used Last Year,Used Last Month,Used >10 Years,CL2
+958,36.0,F,Professional Cert.,0.96,-0.32,-1.44,-0.3,Used Last Month,Never Used,Used Last Year,CL0
+959,20.0,F,Some College,-0.29,-0.32,-0.25,1.58,Used Last Year,Never Used,Never Used,CL0
+960,23.0,M,University Degree,-0.29,-0.32,0.04,0.17,Used Last Year,Never Used,Never Used,CL1
+961,46.0,M,Some College,-0.57,-0.32,-0.05,-0.7,Used Last Year,Used Last Month,Never Used,CL1
+962,24.0,F,Professional Cert.,-0.1,-0.32,0.31,0.96,Used Last Year,Used 2-5 Years,Used Last Year,CL0
+963,31.0,F,Some College,-0.57,-0.32,-0.35,0.32,Used Last Year,Used 2-5 Years,Never Used,CL5
+964,39.0,F,Some College,0.96,-0.32,0.63,-1.92,Used Last Year,Used 2-5 Years,Used 5-10 Years,CL5
+965,18.0,F,Some College,-0.57,-0.32,-0.92,1.29,Used Last Year,Used 2-5 Years,Never Used,CL0
+966,26.0,M,Master’s Degree,-0.57,-0.32,-1.19,0.0,Used Last Year,Used >10 Years,Never Used,CL3
+967,18.0,F,Master’s Degree,0.96,-0.32,-0.92,1.11,Used Last Year,Used 5-10 Years,Used 2-5 Years,CL4
+968,21.0,M,Some College,-0.57,-0.32,-0.58,0.32,Used 1-2 Years,Used 2-5 Years,Used >10 Years,CL0
+969,20.0,M,Some College,-0.57,-0.32,-0.25,0.17,Used Last Year,Never Used,Never Used,CL2
+970,18.0,F,Some College,-0.57,-1.11,-1.55,1.29,Used Last Month,Never Used,Never Used,CL0
+971,62.0,F,Doctorate Degree,-0.29,-0.32,-1.87,1.29,Used Last Month,Used >10 Years,Used >10 Years,CL1
+972,42.0,M,University Degree,0.25,-0.32,0.22,0.0,Used Last Year,Used >10 Years,Never Used,CL0
+973,31.0,F,Some College,0.25,-0.32,0.42,-1.63,Used Last Month,Used 1-2 Years,Never Used,CL0
+974,20.0,F,Some College,-0.57,-0.32,1.49,-1.23,Used Last Month,Never Used,Never Used,CL2
+975,22.0,F,Some College,-0.57,-0.32,-1.87,2.13,Used Last Month,Used 5-10 Years,Never Used,CL0
+976,23.0,F,Some College,-0.57,-0.32,1.23,0.0,Used Last Year,Never Used,Never Used,CL0
+978,21.0,F,Some College,-0.57,-0.32,-0.58,1.11,Never Used,Used 5-10 Years,Never Used,CL3
+979,40.0,M,Master’s Degree,0.96,-0.32,-0.58,1.45,Used Last Year,Used 1-2 Years,Used 5-10 Years,CL2
+980,47.0,M,Some College,-0.57,-0.32,1.23,-1.09,Used Last Month,Used >10 Years,Used >10 Years,CL4
+981,28.0,M,Doctorate Degree,-0.57,-0.5,0.63,0.17,Used 1-2 Years,Used >10 Years,Used 5-10 Years,CL2
+982,18.0,F,Some College,-0.29,-0.32,0.42,-0.15,Used 1-2 Years,Never Used,Never Used,CL4
+983,20.0,F,Some College,0.96,-0.32,1.02,1.11,Used Last Month,Used Last Month,Used 2-5 Years,CL4
+984,28.0,M,University Degree,-0.57,-0.32,0.63,-0.15,Used Last Year,Used >10 Years,Never Used,CL6
+985,22.0,F,Some College,-0.57,-0.32,-0.15,-0.15,Used Last Month,Used 2-5 Years,Never Used,CL3
+986,22.0,F,Some College,-0.29,-0.32,-0.15,0.32,Used Last Year,Used 2-5 Years,Used 2-5 Years,CL0
+987,18.0,F,Professional Cert.,-0.57,-0.32,0.74,-0.81,Used Last Year,Used Last Month,Never Used,CL6
+988,32.0,F,Some College,-0.57,-0.32,1.72,0.64,Used 1-2 Years,Never Used,Never Used,CL4
+989,22.0,F,Some College,-0.57,-0.32,1.02,-1.51,Used 1-2 Years,Used 2-5 Years,Never Used,CL6
+990,31.0,F,University Degree,-0.57,-0.32,-0.79,0.0,Used Last Year,Used Last Month,Never Used,CL4
+991,19.0,F,Some College,-0.57,-0.32,1.72,-0.58,Used Last Month,Used 1-2 Years,Used 5-10 Years,CL6
+992,19.0,F,Some College,-0.1,-,0.31,1.74,Used Last Year,Used 1-2 Years,Used Last Year,CL3
+993,63.0,F,Professional Cert.,-0.29,-,-0.79,0.32,Used 2-5 Years,Used >10 Years,Never Used,CL2
+994,25.0,F,University Degree,0.96,-0.32,-1.19,0.81,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL2
+995,19.0,F,Some College,-0.57,-0.32,0.52,0.81,Used Last Year,Used Last Year,Never Used,CL3
+996,21.0,F,Master’s Degree,-0.29,-0.32,-0.79,-0.3,Used Last Year,Never Used,Never Used,CL4
+997,22.0,F,Master’s Degree,0.96,-0.32,-0.79,0.96,Used Last Year,Used 5-10 Years,Used 5-10 Years,CL4
+998,25.0,F,Master’s Degree,0.96,-0.32,1.13,-0.3,Used Last Month,Never Used,Used 5-10 Years,CL5
+999,32.0,M,Doctorate Degree,-0.57,-0.32,-1.05,0.81,Used 2-5 Years,Used Last Month,Never Used,CL0
+1000,21.0,F,Some College,-0.57,-0.32,-0.68,0.48,Used 1-2 Years,Used 2-5 Years,Used 2-5 Years,CL2
+1001,22.0,F,,-0.47,-0.32,1.23,-1.09,Used Last Year,Never Used,Used 2-5 Years,CL0
+1002,20.0,F,Some College,-0.57,-0.32,-0.05,0.96,Used Last Year,Used Last Month,Used >10 Years,CL5

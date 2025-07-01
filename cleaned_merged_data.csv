@@ -1,0 +1,135 @@
+UserID,ItemID,Rating,Timestamp,Title,ReleaseDate,IMDbURL,Genre0,Genre1,Genre2,Genre3,Genre4,Genre5,Genre6,Genre7,Genre8,Genre9,Genre10,Genre11,Genre12,Genre13,Genre14,Genre15,Genre16,Genre17,Genre18
+181,1348,1,878962200,Every Other Weekend (1990),01-Jan-1990,http://us.imdb.com/Title?Un+week-end+sur+deux+(1990),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+181,1320,1,878962279,Homage (1995),03-May-1996,http://us.imdb.com/M/title-exact?Homage%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+279,1492,4,888430806,Window to Paris (1994),01-Jan-1994,http://us.imdb.com/Title?Okno+v+Parizh+(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,1364,1,878962464,Bird of Prey (1996),04-Oct-1996,http://us.imdb.com/M/title-exact?Bird%20of%20Prey%20(1996),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+279,1493,1,888465068,"Modern Affair, A (1995)",06-Sep-1996,"http://us.imdb.com/M/title-exact?Modern%20Affair,%20A%20(1995)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+13,830,1,882397581,Power 98 (1995),17-May-1996,http://us.imdb.com/M/title-exact?Power%2098%20(1995),0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+279,1498,4,891208884,Farmer & Chase (1995),10-Jan-1997,http://us.imdb.com/M/title-exact?Farmer%20&%20Chase%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,814,5,886302261,"Great Day in Harlem, A (1994)",01-Jan-1994,"http://us.imdb.com/M/title-exact?Great%20Day%20in%20Harlem,%20A%20(1994)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+314,1520,3,877892052,"Fear, The (1995)",01-Jan-1995,"http://us.imdb.com/M/title-exact?Fear,%20The%20(1995)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+181,1373,1,878962052,Good Morning (1971),4-Feb-1971,http://us.imdb.com/M/title-exact?Good%20Morning%20(1971),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+167,1309,1,892738341,"Very Natural Thing, A (1974)",01-Jan-1974,"http://us.imdb.com/M/title-exact?Very%20Natural%20Thing,%20A%20(1974)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+13,857,3,881515348,Paris Was a Woman (1995),08-Nov-1996,http://us.imdb.com/M/title-exact?Paris%20Was%20a%20Woman%20(1995),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+100,1236,3,891375630,"Other Voices, Other Rooms (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-119845,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+167,1310,3,892738384,"Walk in the Sun, A (1945)",01-Jan-1945,"http://us.imdb.com/M/title-exact?Walk%20in%20the%20Sun,%20A%20(1945)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+385,1536,5,879441339,Aiqing wansui (1994),22-Jul-1996,http://us.imdb.com/M/title-exact?Aiqing%20Wansui%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+405,1582,1,885548670,T-Men (1947),01-Jan-1947,http://us.imdb.com/M/title-exact?T-Men%20(1947),0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+181,1343,1,878962199,Lotto Land (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Lotto%20Land%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+234,1457,3,892079538,Love Is All There Is (1996),11-Oct-1996,http://us.imdb.com/M/title-exact?Love%20Is%20All%20There%20Is%20(1996),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+399,1543,3,882509891,Johns (1996),18-Oct-1996,http://us.imdb.com/M/title-exact?Johns%20(1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+7,599,1,891353860,Police Story 4: Project S (Chao ji ji hua) (1993),16-Aug-1996,http://us.imdb.com/M/title-exact?Project%20S%20(1993),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+234,1458,4,892336165,"Damsel in Distress, A (1937)",01-Jan-1937,"http://us.imdb.com/M/title-exact?Damsel%20in%20Distress,%20A%20(1937)",0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+405,1561,1,885546529,Tigrero: A Film That Was Never Made (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Tigrero:%20A%20Film%20That%20Was%20Never%20Made%20(1994),0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+381,1533,4,892696106,I Don't Want to Talk About It (De eso no se habla) (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?De%20Eso%20No%20Se%20Habla%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+405,1565,1,885549463,Daens (1992),01-Jan-1992,http://us.imdb.com/M/title-exact?Daens%20(1992),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+405,1563,1,885549635,"Promise, The (Versprechen, Das) (1994)",01-Jan-1994,"http://us.imdb.com/M/title-exact?Versprechen,%20Das%20(1994)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+76,1156,3,879576233,Cyclo (1995),02-Aug-1996,http://us.imdb.com/M/title-exact?Cyclo%20(1995),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+291,1505,4,874868647,Killer: A Journal of Murder (1995),06-Sep-1996,http://us.imdb.com/M/title-exact?Killer:%20A%20Journal%20of%20Murder%20(1995),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+13,852,1,882396869,"Bloody Child, The (1996)",26-Oct-1996,http://us.imdb.com/M/title-exact?Bloody%20Child%2C%20The%20%281996%29,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+405,1557,1,885547222,Yankee Zulu (1994),16-Feb-1996,http://us.imdb.com/M/title-exact?Yankee%20Zulu%20(1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+405,1562,1,885549506,"Eye of Vichy, The (Oeil de Vichy, L') (1993)",01-Jan-1993,"http://us.imdb.com/M/title-exact?Oeil%20de%20Vichy,%20L'%20(1993)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+405,1586,1,885549464,Lashou shentan (1992),01-Jan-1992,http://us.imdb.com/M/title-exact?Lashou%20Shentan%20(1992),0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+268,1476,2,876513897,Raw Deal (1948),01-Jan-1948,http://us.imdb.com/M/title-exact?Raw%20Deal%20(1948),0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+405,1580,1,885549543,Liebelei (1933),01-Jan-1933,http://us.imdb.com/M/title-exact?Liebelei%20(1933),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+181,1363,1,878962279,"Leopard Son, The (1996)",27-Sep-1996,"http://us.imdb.com/M/title-exact?Leopard%20Son,%20The%20(1996)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+181,1339,1,878962086,Stefano Quantestorie (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Stefano%20Quantestorie%20%281993%29,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+405,1566,1,885546248,"Man from Down Under, The (1943)",01-Jan-1943,"http://us.imdb.com/Title?Man+from+Down+Under,+The+(1943)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+181,1349,1,878962278,Mille bolle blu (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Mille%20bolle%20blu%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+234,1447,3,892336119,Century (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Century%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+100,1235,4,891375454,"Big Bang Theory, The (1994)",01-Jan-1994,http://us.imdb.com/M/title-exact?imdb-title-109266,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+405,1587,1,885546529,Terror in a Texas Town (1958),01-Jan-1958,http://us.imdb.com/M/title-exact?Terror%20in%20a%20Texas%20Town%20(1958),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,677,3,891354499,Fire on the Mountain (1996),24-Jan-1997,http://us.imdb.com/M/title-exact?Fire%20on%20the%20Mountain%20(1996),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+405,1571,1,885549463,Touki Bouki (Journey of the Hyena) (1973),01-Jan-1973,http://us.imdb.com/M/title-exact?Touki%20Bouki%20(1973),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+405,1575,1,885549407,"I, Worst of All (Yo, la peor de todas) (1990)",01-Jan-1990,"http://us.imdb.com/M/title-exact?Yo,%20la%20Peor%20de%20Todas%20(1990)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+303,1510,3,879485659,Mad Dog Time (1996),08-Nov-1996,http://us.imdb.com/M/title-exact?Mad%20Dog%20Time%20(1996),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+405,1579,1,885549408,Baton Rouge (1988),01-Jan-1988,http://us.imdb.com/Title?B%E2ton+rouge+(1988),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+450,1603,3,887139728,Angela (1995),16-Feb-1996,http://us.imdb.com/M/title-exact?Angela%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+500,1616,4,883875501,Desert Winds (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Desert%20Winds%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+339,1526,4,891035116,Witness (1985),01-Jan-1985,http://us.imdb.com/M/title-exact?Witness+(1985),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
+425,1596,2,878738695,Nemesis 2: Nebula (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Nemesis%202:%20Nebula%20(1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+234,1453,2,892335415,Angel on My Shoulder (1946),01-Jan-1946,http://us.imdb.com/M/title-exact?Angel%20on%20My%20Shoulder%20(1946),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+234,1461,2,892078297,Here Comes Cookie (1935),01-Jan-1935,http://us.imdb.com/M/title-exact?Here%20Comes%20Cookie%20(1935),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+405,1559,1,885546577,Hostile Intentions (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Hostile%20Intentions%20(1994),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+299,1507,3,877881170,Three Lives and Only One Death (1996),11-Oct-1996,http://us.imdb.com/M/title-exact?Trois%20vies%20et%20une%20seule%20mort%20(1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+409,1593,4,881108971,Death in Brunswick (1991),16-Aug-1996,http://us.imdb.com/M/title-exact?Death%20in%20Brunswick%20(1991),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+405,1576,1,885549464,"Hungarian Fairy Tale, A (1987)",01-Jan-1987,"http://us.imdb.com/M/title-exact?Hol%20volt,%20hol%20nem%20volt%20(1987)",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+334,1525,4,893074672,"Object of My Affection, The (1998)",20-Mar-1998,"http://us.imdb.com/Title?Object+of+My+Affection,+The+(1998)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+405,1569,1,885549505,"Vie est belle, La (Life is Rosey) (1987)",01-Jan-1987,"http://us.imdb.com/M/title-exact?Vie%20est%20belle,%20La%20(1987)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+405,1568,1,885547222,Vermont Is For Lovers (1992),01-Jan-1992,http://us.imdb.com/M/title-exact?Vermont%20Is%20For%20Lovers%20(1992),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+181,1340,1,878962240,"Crude Oasis, The (1995)",01-Jan-1995,"http://us.imdb.com/M/title-exact?Crude%20Oasis,%20The%20(1995)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+543,1619,3,874865635,All Things Fair (1996),08-Mar-1996,http://us.imdb.com/Title?Lust+och+f%E4gring+stor+(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+445,1601,1,891199533,Office Killer (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-119819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+405,1583,1,885549543,"Invitation, The (Zaproszenie) (1986)",01-Jan-1986,http://us.imdb.com/M/title-exact?Zaproszenie%20(1986),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+587,1624,2,892871752,Hush (1998),10-Mar-1998,http://us.imdb.com/Title?Hush+(1998),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+655,1651,4,891913500,"Spanish Prisoner, The (1997)",27-Mar-1998,"http://us.imdb.com/Title?Spanish+Prisoner,+The+(1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+195,1414,2,874825826,Coldblooded (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Coldblooded%20(1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+279,1486,1,875314076,Girl in the Cadillac (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Girl%20in%20the%20Cadillac%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+496,1614,3,876070690,"Reluctant Debutante, The (1958)",01-Jan-1958,"http://us.imdb.com/M/title-exact?Reluctant%20Debutante,%20The%20(1958)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+405,1570,1,885549544,Quartier Mozart (1992),01-Jan-1992,http://us.imdb.com/M/title-exact?Quartier%20Mozart%20(1992),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+437,1599,5,880142614,Someone Else's America (1995),10-May-1996,http://us.imdb.com/M/title-exact?Someone%20Else's%20America%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+655,1649,3,892333993,"Big One, The (1997)",27-Mar-1998,"http://us.imdb.com/Title?Big+One,+The+(1997)",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+405,1572,1,885549635,Wend Kuuni (God's Gift) (1982),01-Jan-1982,http://us.imdb.com/M/title-exact?Wend%20Kuuni%20(1982),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+675,1653,5,889489913,Entertaining Angels: The Dorothy Day Story (1996),27-Sep-1996,http://us.imdb.com/M/title-exact?Entertaining%20Angels:%20The%20Dorothy%20Day%20Story%20(1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+234,1452,4,892335342,Lady of Burlesque (1943),01-Jan-1943,http://us.imdb.com/M/title-exact?Lady%20of%20Burlesque%20(1943),0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+425,1595,2,878738757,Shopping (1994),09-Feb-1996,http://us.imdb.com/M/title-exact?Shopping%20(1994),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+405,1548,1,885547952,The Courtyard (1995),01-Jan-1995,"http://us.imdb.com/M/title-exact?Courtyard,%20The%20(1995)%20(TV)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+682,1655,2,888517922,"Favor, The (1994)",01-Jan-1994,"http://us.imdb.com/M/title-exact?Favor,%20The%20(1994)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+276,1482,4,874791383,"Gate of Heavenly Peace, The (1995)",10-May-1996,"http://us.imdb.com/M/title-exact?Gate%20of%20Heavenly%20Peace,%20The%20(1995)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+727,1657,3,883711991,Target (1995),28-Feb-1996,http://us.imdb.com/M/title-exact?Target%20(1995),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+747,1660,2,888640731,Small Faces (1995),09-Aug-1996,http://us.imdb.com/M/title-exact?Small%20Faces%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+751,1661,1,889299429,"New Age, The (1994)",01-Jan-1994,"http://us.imdb.com/M/title-exact?New%20Age,%20The%20(1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+308,1515,4,887738346,Wings of Courage (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Wings%20of%20Courage%20(1995),0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+551,1621,1,892785194,Butterfly Kiss (1995),26-Apr-1996,http://us.imdb.com/M/title-exact?Butterfly%20Kiss%20(1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+655,1632,3,888685759,Land and Freedom (Tierra y libertad) (1995),29-Mar-1996,http://us.imdb.com/M/title-exact?Tierra%20y%20libertad%20(1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+528,1618,1,888521905,King of New York (1990),01-Jan-1990,http://us.imdb.com/Title?King+of+New+York+(1990),0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+655,1647,3,891817435,Hana-bi (1997),20-Mar-1998,http://us.imdb.com/Title?Hana-bi+(1997),0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+405,1581,1,885548579,"Woman in Question, The (1950)",01-Jan-1950,"http://us.imdb.com/M/title-exact?Woman%20in%20Question,%20The%20(1950)",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+405,1584,1,885549407,"Symphonie pastorale, La (1946)",01-Jan-1946,"http://us.imdb.com/M/title-exact?Symphonie%20pastorale,%20La%20(1946)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+782,1669,2,891500150,MURDER and murder (1996),20-Jun-1997,http://us.imdb.com/M/title-exact?MURDER+and+murder+(1996),0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+489,1613,4,891449466,Tokyo Fist (1995),11-Feb-1998,http://us.imdb.com/M/title-exact?Tokyo+Fist+(1995),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+62,1130,4,879376686,Jupiter's Wife (1994),09-Feb-1996,http://us.imdb.com/M/title-exact?Jupiter's%20Wife%20(1994),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+782,1663,2,891499700,Nothing Personal (1995),30-Apr-1997,http://us.imdb.com/M/title-exact?Nothing%20Personal%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+655,1634,2,888474019,Etz Hadomim Tafus (Under the Domin Tree) (1994),19-Apr-1996,http://us.imdb.com/M/title-exact?Etz%20Hadomim%20Tafus%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+181,1329,1,878962240,"Low Life, The (1994)",10-May-1996,"http://us.imdb.com/Title?Low+Life,+The+(1994/I)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+279,1494,1,889232401,"Mostro, Il (1994)",19-Apr-1996,"http://us.imdb.com/M/title-exact?Mostro,%20Il%20(1994)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+835,1673,3,891034023,Mirage (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Mirage%20(1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+655,1633,3,889331315,Á köldum klaka (Cold Fever) (1994),08-Mar-1996,http://us.imdb.com/Title?%C1+k%F6ldum+klaka+(1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+854,1677,3,882814368,Sweet Nothing (1995),20-Sep-1996,http://us.imdb.com/M/title-exact?Sweet%20Nothing%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+863,1679,3,889289491,B. Monkey (1998),06-Feb-1998,http://us.imdb.com/M/title-exact?B%2E+Monkey+(1998),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+405,1577,1,885549506,"Death in the Garden (Mort en ce jardin, La) (1956)",01-Jan-1956,"http://us.imdb.com/Title?Mort+en+ce+jardin,+La+(1956)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+782,1666,2,891500194,Ripe (1996),02-May-1997,http://us.imdb.com/M/title-exact?Ripe%20%281996%29,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+655,1635,3,887432079,Two Friends (1986) ,26-Apr-1986,http://us.imdb.com/M/title-exact?Two%20Friends%20(1986)%20(TV),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+655,1648,2,891817435,"Niagara, Niagara (1997)",20-Mar-1998,"http://us.imdb.com/Title?Niagara,+Niagara+(1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+863,1678,1,889289570,Mat' i syn (1997),06-Feb-1998,http://us.imdb.com/M/title-exact?Mat%27+i+syn+(1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+405,1567,1,885547123,Careful (1992),01-Jan-1992,http://us.imdb.com/M/title-exact?Careful%20(1992),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,1122,5,883326498,They Made Me a Criminal (1939),01-Jan-1939,http://us.imdb.com/M/title-exact?They%20Made%20Me%20a%20Criminal%20(1939),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+90,1201,5,891383687,Marlene Dietrich: Shadow and Light (1996) ,02-Apr-1996,http://us.imdb.com/M/title-exact?Marlene%20Dietrich:%20Shadow%20and%20Light%20(1996)%20(TV),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+405,1546,1,885549408,Shadows (Cienie) (1988),01-Jan-1988,http://us.imdb.com/M/title-exact?Cienie%20(1988),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+650,1627,3,891383786,"Wife, The (1995)",26-Jul-1996,"http://us.imdb.com/Title?Wife,+The+(1995)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+851,1676,2,875731674,"War at Home, The (1996)",01-Jan-1996,http://us.imdb.com/M/title-exact?War%20at%20Home%2C%20The%20%281996%29,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+181,1366,1,878962200,JLG/JLG - autoportrait de décembre (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?JLG/JLG%20-%20autoportrait%20de%20d%E9cembre%20%281994%29,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+782,1668,3,891500067,Wedding Bell Blues (1996),13-Jun-1997,http://us.imdb.com/M/title-exact?Wedding%20Bell%20Blues%20%281996%29,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+405,1564,1,885546288,To Cross the Rubicon (1991),01-Jan-1991,http://us.imdb.com/M/title-exact?To%20Cross%20the%20Rubicon%20(1991),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+456,1604,4,881372849,He Walked by Night (1948),01-Jan-1948,http://us.imdb.com/M/title-exact?He%20Walked%20by%20Night%20(1948),0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+405,1574,1,885546529,Pharaoh's Army (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Pharaoh's%20Army%20(1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+787,1671,1,888980193,"Further Gesture, A (1996)",20-Feb-1998,http://us.imdb.com/M/title-exact?Further+Gesture%2C+A+(1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+782,1665,2,891500194,"Brother's Kiss, A (1997)",25-Apr-1997,http://us.imdb.com/M/title-exact?Brother%27s%20Kiss%2C%20A%20%281997%29,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+181,1325,1,878962816,August (1996),12-Apr-1996,http://us.imdb.com/M/title-exact?August%20(1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+782,1670,3,891497793,Tainted (1998),01-Feb-1998,http://us.imdb.com/M/title-exact?Tainted+(1998),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+181,1341,1,878962169,Hedd Wyn (1992),01-Jan-1992,http://us.imdb.com/M/title-exact?Hedd%20Wyn%20(1992),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+181,1352,1,878962240,Shadow of Angels (Schatten der Engel) (1976),01-Jan-1976,http://us.imdb.com/M/title-exact?Schatten%20der%20Engel%20(1976),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+655,1636,4,887473570,Brothers in Trouble (1995),26-Apr-1996,http://us.imdb.com/M/title-exact?Brothers%20in%20Trouble%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+896,1681,3,887160722,You So Crazy (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?You%20So%20Crazy%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+655,1638,3,887488947,Normal Life (1996),25-Oct-1996,http://us.imdb.com/M/title-exact?Normal%20Life%20(1996),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+782,1667,3,891500110,"Next Step, The (1995)",13-Jun-1997,http://us.imdb.com/M/title-exact?Next%20Step%2C%20The%20%281995%29,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+851,1675,3,884222085,"Sunchaser, The (1996)",25-Oct-1996,"http://us.imdb.com/M/title-exact?Sunchaser,%20The%20(1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+234,1460,3,892335460,Sleepover (1995),25-Oct-1996,http://us.imdb.com/M/title-exact?Sleepover%20(1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+648,1626,1,884795447,Nobody Loves Me (Keiner liebt mich) (1994),09-Feb-1996,http://us.imdb.com/M/title-exact?Keiner%20liebt%20mich%20(1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+747,1659,1,888733313,Getting Away With Murder (1996),12-Apr-1996,http://us.imdb.com/Title?Getting+Away+With+Murder+(1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+916,1682,3,880845755,Scream of Stone (Schrei aus Stein) (1991),08-Mar-1996,http://us.imdb.com/M/title-exact?Schrei%20aus%20Stein%20(1991),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+840,1674,4,891211682,Mamma Roma (1962),01-Jan-1962,http://us.imdb.com/M/title-exact?Mamma%20Roma%20(1962),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+655,1640,3,888474646,"Eighth Day, The (1996)",01-Nov-1996,"http://us.imdb.com/Title?Huiti%E8me+jour,+Le+(1996)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+655,1637,3,888984255,Girls Town (1996),23-Aug-1996,http://us.imdb.com/M/title-exact?Girls%20Town%20(1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+655,1630,3,887428735,"Silence of the Palace, The (Saimt el Qusur) (1994)",02-Feb-1996,http://us.imdb.com/M/title-exact?Saimt%20el%20Qusur%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+655,1641,3,887427810,Dadetown (1995),18-Sep-1996,http://us.imdb.com/M/title-exact?Dadetown%20(1995),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
